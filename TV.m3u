@@ -1,0 +1,1615 @@
+#EXTM3U url-tvg="http://st.kineskop.club/epg.xml.gz" tvg-shift=-2 dlna_extras=mpeg_ts_sd
+#EXTINF:0 tvg-name="Первый канал" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" timeshift="7" group-title="Общие",Первый Канал
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/119_1009521_7db31997a445d9f3_0_0.m3u8
+#EXTINF:0 tvg-name="Первый HD" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" group-title="Общие",Первый Канал HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/250_1009521_9da1b43c992b0139_0_0.m3u8
+#EXTINF:0 tvg-name="Первый канал. (Европа)" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" timeshift="7" group-title="Общие",Первый Канал Европа
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/425_1009521_364778a684261675_0_0.m3u8
+#EXTINF:0 tvg-name="Первый Канал +2" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" group-title="Общие",Первый Канал +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/372_1009521_945bee57dbb7d629_0_0.m3u8
+#EXTINF:0 tvg-name="Первый Канал +4" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" group-title="Общие",Первый Канал +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/373_1009521_6709084ea7b77fda_0_0.m3u8
+#EXTINF:0 tvg-name="Первый Канал +4 HD" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" group-title="Общие",Первый Канал +4 HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/851_1009521_a1a9654e8b825609_0_0.m3u8
+#EXTINF:0 tvg-name="Первый Канал +6" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_1_kanal.png" group-title="Общие",Первый Канал +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/431_1009521_16884a9477ef1ae7_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" timeshift="7" group-title="Общие",Россия 1
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/79_1009521_f950c1380c9b6a01_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" group-title="Общие",Россия 1 512k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/722_1009521_0ac84e4644279041_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" group-title="Общие",Россия 1 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/903_1009521_b5be0a7f675f461c_0_0.m3u8
+#EXTINF:0 tvg-name="Россия HD" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_hd_ru.png" timeshift="7" group-title="Общие",Россия HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/251_1009521_27a60c7086719bd8_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1 +2" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" group-title="Общие",Россия 1 +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/374_1009521_7fb7737aad77c8cc_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1 +4" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" group-title="Общие",Россия 1 +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/375_1009521_359680e9c33fcf72_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 1 (дубль 2)" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_1.png" group-title="Общие",Россия 1 +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/432_1009521_5f79ed27651146a6_0_0.m3u8
+#EXTINF:0 tvg-name="РТР Планета" tvg-logo="http://ru.kineskop.club/icon_cache/rtr_planeta_ru.png" timeshift="7" group-title="Общие",РТР-Планета
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/42_1009521_cb3a6f935c354e14_0_0.m3u8
+#EXTINF:0 tvg-name="Россия Культура" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_kultura.png" group-title="Общие",Россия К
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/82_1009521_0a3df431bf032c71_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" timeshift="7" group-title="Общие",НТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/98_1009521_28899e52dd77ae9f_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ 512k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/725_1009521_6b972cc251c401e6_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/904_1009521_1391f71964dfdbf3_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/256_1009521_2ca69bd106e790c1_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ +2" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/406_1009521_7ecdb990f001cca5_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ +4" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/409_1009521_0c23abf03e150eaf_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ +6" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru.png" group-title="Общие",НТВ +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/435_1009521_18b09d0107ec9504_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ Мир-----------------------" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_world_ru.png" timeshift="7" group-title="Общие",НТВ Мир
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/179_1009521_31f7004622fcc76a_0_0.m3u8
+#EXTINF:0 tvg-name="ТВЦ +2" tvg-logo="http://ru.kineskop.club/icon_cache/tv_centr_ru.png" group-title="Общие",ТВЦ +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/809_1009521_1798c49efe6b57b1_0_0.m3u8
+#EXTINF:0 tvg-name="РЕН ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/ren_tv_ru.png" group-title="Общие",РЕН ТВ 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/906_1009521_27583bfa94a5d24b_0_0.m3u8
+#EXTINF:0 tvg-name="СТС" tvg-logo="http://ru.kineskop.club/icon_cache/sts_ru.png" group-title="Общие",СТС 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/905_1009521_5828d303baab0943_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru.png" timeshift="7" group-title="Общие",ТНТ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/114_1009521_f97a942ef795df6e_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ HD" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru.png" timeshift="7" group-title="Общие",ТНТ HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/429_1009521_0179f020386fa410_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ +2" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru.png" group-title="Общие",ТНТ +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/384_1009521_31bcacca8a75b656_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ +4" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru.png" group-title="Общие",ТНТ +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/385_1009521_c5820bd5e2c29ed3_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ +6" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru.png" group-title="Общие",ТНТ +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/433_1009521_b6a6fa7801db03f6_0_0.m3u8
+#EXTINF:0 tvg-name="Теледом" tvg-logo="http://ru.kineskop.club/icon_cache/teledom_tv_ru.png" group-title="Общие",Теледом HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/671_1009521_ba66621b498d0c8c_0_0.m3u8
+#EXTINF:0 tvg-name="Настоящее время HD" tvg-logo="http://ru.kineskop.club/icon_cache/nastoyashcheye-vremya-cz.png" group-title="Общие",Настоящее время HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/774_1009521_d4e6e2fc2ccd1fa4_0_0.m3u8
+#EXTINF:0 tvg-name="Пятница" tvg-logo="http://ru.kineskop.club/icon_cache/pyat_nitsa_ru.png" timeshift="7" group-title="Общие",Пятница!
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/273_1009521_0eaa58edb33b70c2_0_0.m3u8
+#EXTINF:0 tvg-name="Пятница HD" tvg-logo="http://ru.kineskop.club/icon_cache/" timeshift="7" group-title="Общие",Пятница! HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/832_1009521_0d5f3bbd9bb4ba76_0_0.m3u8
+#EXTINF:0 tvg-name="Пятница +2" tvg-logo="http://ru.kineskop.club/icon_cache/pyat_nitsa_ru.png" group-title="Общие",Пятница +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/410_1009521_20f0f555a5d7a310_0_0.m3u8
+#EXTINF:0 tvg-name="Пятница +4" tvg-logo="http://ru.kineskop.club/icon_cache/pyat_nitsa_ru.png" group-title="Общие",Пятница +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/411_1009521_e594552823d87148_0_0.m3u8
+#EXTINF:0 tvg-name="Пятница +6" tvg-logo="http://ru.kineskop.club/icon_cache/pyat_nitsa_ru.png" group-title="Общие",Пятница +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/437_1009521_a6f4177282cfd211_0_0.m3u8
+#EXTINF:0 tvg-name="Luxury" tvg-logo="http://ru.kineskop.club/icon_cache/70e504268fedb9c1797617d71b2d701d.jpg" group-title="Общие",Luxury
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/718_1009521_41665404f8a7d9d8_0_0.m3u8
+#EXTINF:0 tvg-name="Звезда" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_zvezda_ru.png" group-title="Общие",Звезда
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/49_1009521_fe530bb68e34b758_0_0.m3u8
+#EXTINF:0 tvg-name="Звезда" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_zvezda_ru.png" group-title="Общие",Звезда 512k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/720_1009521_319b5c8d4f9c4909_0_0.m3u8
+#EXTINF:0 tvg-name="Звезда +2" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_zvezda_ru.png" group-title="Общие",Звезда +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/802_1009521_7a9ca3f6af9a8e60_0_0.m3u8
+#EXTINF:0 tvg-name="Звезда +4" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_zvezda_ru.png" group-title="Общие",Звезда +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/801_1009521_374b76564e5f0510_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ4" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru_4.png" timeshift="7" group-title="Общие",ТНТ4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/93_1009521_ffaa0dacb73a0502_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ4 +2" tvg-logo="http://ru.kineskop.club/icon_cache/tnt4-ru.png" group-title="Общие",ТНТ4 +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/805_1009521_244204d6addc5bb6_0_0.m3u8
+#EXTINF:0 tvg-name="ВРЕМЯ" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_4_vremya_ru.png" timeshift="7" group-title="Общие",Время
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/120_1009521_b65ff3f00d1ceefd_0_0.m3u8
+#EXTINF:0 tvg-name="ТВ-3" tvg-logo="http://ru.kineskop.club/icon_cache/tv_3_ru.png" timeshift="7" group-title="Общие",ТВ 3
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/223_1009521_36a653c522266ca3_0_0.m3u8
+#EXTINF:0 tvg-name="ТВ 3" tvg-logo="http://ru.kineskop.club/icon_cache/tv_3_ru.png" group-title="Общие",ТВ 3 HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/831_1009521_2c2f8e652707ec1d_0_0.m3u8
+#EXTINF:0 tvg-name="ТВ 3 +2" tvg-logo="http://ru.kineskop.club/icon_cache/tv_3_ru.png" group-title="Общие",ТВ 3 +2
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/442_1009521_3fb12256ed71c2bb_0_0.m3u8
+#EXTINF:0 tvg-name="ТВ 3 +4" tvg-logo="http://ru.kineskop.club/icon_cache/tv_3_ru.png" group-title="Общие",ТВ 3 +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/443_1009521_6b877825844ca6c1_0_0.m3u8
+#EXTINF:0 tvg-name="ТВ 3 +6" tvg-logo="http://ru.kineskop.club/icon_cache/tv_3_ru.png" group-title="Общие",ТВ 3 +6
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/439_1009521_a7171a837dbd5249_0_0.m3u8
+#EXTINF:0 tvg-name="Санкт-Петербург" tvg-logo="http://ru.kineskop.club/icon_cache/sankt_peterburg_ru.png" group-title="Общие",Санкт-Петербург
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/466_1009521_6f246941e6314de0_0_0.m3u8
+#EXTINF:0 tvg-name="Точка ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/tochka_tv_ru.png" group-title="Общие",Точка ТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/481_1009521_93259f664bf845ff_0_0.m3u8
+#EXTINF:0 tvg-name="Анекдот ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/anekdot_tv_ru.png" group-title="Общие",Анекдот ТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/778_1009521_130beb84fe9c0abc_0_0.m3u8
+#EXTINF:0 tvg-name="Сарафан ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/sarafan_ru.png" timeshift="7" group-title="Общие",Сарафан
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/111_1009521_310aeed74a510510_0_0.m3u8
+#EXTINF:0 tvg-name="МИР" tvg-logo="http://ru.kineskop.club/icon_cache/mir_ru.png" group-title="Общие",Мир
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/122_1009521_c59fa0deb4ef6f28_0_0.m3u8
+#EXTINF:0 tvg-name="Мир +4" tvg-logo="http://ru.kineskop.club/icon_cache/mir_ru_plus4.png" group-title="Общие",Мир +4
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/803_1009521_79bc27554794f1b8_0_0.m3u8
+#EXTINF:0 tvg-name="Мир HD" tvg-logo="http://ru.kineskop.club/icon_cache/mir_ru.png" group-title="Общие",Мир HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/460_1009521_e0ffe90422b1a5be_0_0.m3u8
+#EXTINF:0 tvg-name="Ю" tvg-logo="http://ru.kineskop.club/icon_cache/u_tv_ru.png" timeshift="7" group-title="Общие",Ю
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/220_1009521_c9e0ce8bf8671ddc_0_0.m3u8
+#EXTINF:0 tvg-name="ОТР" tvg-logo="http://ru.kineskop.club/icon_cache/otr_ru.png" group-title="Общие",ОТР
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/299_1009521_ad1dfbd8e458c67b_0_0.m3u8
+#EXTINF:0 tvg-name="Просвещение" tvg-logo="http://ru.kineskop.club/icon_cache/prosveshchenie.png" group-title="Общие",Просвещение
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/300_1009521_09669c7f7b046c17_0_0.m3u8
+#EXTINF:0 tvg-name="360 Подмосковье" tvg-logo="http://ru.kineskop.club/icon_cache/360_podmoskove_ru.png" group-title="Общие",360° Подмосковье
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/277_1009521_1635109a490cfda2_0_0.m3u8
+#EXTINF:0 tvg-name="Москва-24" tvg-logo="http://ru.kineskop.club/icon_cache/moskva_24_ru.png" group-title="Общие",Москва 24
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/279_1009521_81a4d1b8a09ad2f9_0_0.m3u8
+#EXTINF:0 tvg-name="Москва.Доверие" tvg-logo="http://ru.kineskop.club/icon_cache/moskva_doverie_ru.png" group-title="Общие",Москва Доверие
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/280_1009521_96bee98136ae251e_0_0.m3u8
+#EXTINF:0 tvg-name="Первый образовательный" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_obrazovatelniy.png" group-title="Общие",Первый Образовательный
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/298_1009521_8eb33fd6ffde973e_0_0.m3u8
+#EXTINF:0 tvg-name="8 Канал" tvg-logo="http://ru.kineskop.club/icon_cache/8kanal_ru.png" group-title="Общие",8 Канал
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/290_1009521_c9b37d24e622c849_0_0.m3u8
+#EXTINF:0 tvg-name="Fine Living Network" tvg-logo="http://ru.kineskop.club/icon_cache/fine_living_network_emea.png" group-title="Общие",Fine Living
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/293_1009521_151f2605d04a6462_0_0.m3u8
+#EXTINF:0 tvg-name="Спас ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/spas_ru.png" group-title="Общие",Спас
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/312_1009521_625bb71dc42fa4b5_0_0.m3u8
+#EXTINF:0 tvg-name="ТДК" tvg-logo="http://ru.kineskop.club/icon_cache/tdk_ru.png" group-title="Общие",ТДК
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/310_1009521_f4173e45eca51f55_0_0.m3u8
+#EXTINF:0 tvg-name="Russia Today Doc (RT Doc)" tvg-logo="http://ru.kineskop.club/icon_cache/rt_d_ru.png" group-title="Общие",RT Док HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/386_1009521_058aa586354695ba_0_0.m3u8
+#EXTINF:0 tvg-name="FashionBox HD" tvg-logo="http://ru.kineskop.club/icon_cache/fashion_box_hd.png" group-title="Общие",FashionBox
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/561_1009521_c8808284273c5539_0_0.m3u8
+#EXTINF:0 tvg-name="Fashion TV Россия" tvg-logo="http://ru.kineskop.club/icon_cache/fashion_tv_fr.png" group-title="Общие",Fashion TV Россия HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/648_1009521_40bf5127b042fc64_0_0.m3u8
+#EXTINF:0 tvg-name="World Fashion Channel International HD" tvg-logo="http://ru.kineskop.club/icon_cache/world_fashion_channel_int.png" group-title="Общие",World Fashion Channel International HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/652_1009521_704baf2202cb2b5d_0_0.m3u8
+#EXTINF:0 tvg-name="Театр" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_teatr_ru.png" group-title="Общие",Телеканал Театр
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/649_1009521_364874b5213f6c9f_0_0.m3u8
+#EXTINF:0 tvg-name="E" tvg-logo="http://ru.kineskop.club/icon_cache/e-ru.png" group-title="Общие",E HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/678_1009521_03b1fb802a0b8490_0_0.m3u8
+#EXTINF:0 tvg-name="Sea TV" tvg-logo="http://ru.kineskop.club/icon_cache/sea-tv-lv.png" group-title="Общие",Sea TV
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/790_1009521_b2d2788f93fcc337_0_0.m3u8
+#EXTINF:0 tvg-name="Поехали!" tvg-logo="http://ru.kineskop.club/icon_cache/poehali_telekanal_ru.png" group-title="Общие",Поехали!
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/788_1009521_6c215115118f7bf4_0_0.m3u8
+#EXTINF:0 tvg-name="Драйв ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/draiv_ru.png" group-title="Общие",Драйв
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/789_1009521_3008ad161bc0e481_0_0.m3u8
+#EXTINF:0 tvg-name="Калейдоскоп ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/kaleidoskop_tv_ru.png" group-title="Общие",Калейдоскоп ТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/791_1009521_9fdfbfde8b8accd0_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/ua-donbas-ua.png" group-title="Общие",UA:Донбас
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/839_1009521_04e471b13a1a1ba4_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/29196764_809477305916920_4820176998129205248_n.png?_nc_cat=107&_nc_ohc=FvwsYK6l0iIAQlwGXIqCEP2CvpBCxEiQ4PAwGhO1D4di0KOxe8rbU52vA&_nc_ht=scontent.fiev4-1.fna&oh=2a66b4b0500ed074de5063a5052fdc51&oe=5E" group-title="Общие",Мариупольское ТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/840_1009521_17ca833702ff612d_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/image.jpg" group-title="Общие",33 канал
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/891_1009521_83d53d07c017a989_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/Ternopil1_logo.png" group-title="Общие",Тернополь 1
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/892_1009521_fe069c845ac358db_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/i75_ArticleImage_144310.jpg" group-title="Общие",Первый Западный
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/893_1009521_726f85a7dcb2b2bc_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/images?q=tbn:ANd9GcQ-Gf1OSB3FyIF2AamrZzbYNqiifcecPptgO1jE15t5z0_P7w1I&s" group-title="Общие",Галичина
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/894_1009521_7986d4004f6b549c_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/chernovtci-tv.jpg" group-title="Общие",Черновцы ТВ
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/895_1009521_c68fbb38d6c683c9_0_0.m3u8
+#EXTINF:0 tvg-name="Звезда" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_zvezda_ru.png" group-title="Общие",Звезда 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/909_1009521_5772a7b8fcc22213_0_0.m3u8
+#EXTINF:0 tvg-name="ТВЦ" tvg-logo="http://ru.kineskop.club/icon_cache/tv_centr_ru.png" group-title="Общие",ТВЦ 900k
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/1000_1009521_488d63a37da560d1_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ4" tvg-logo="http://ru.kineskop.club/icon_cache/tnt_ru_4.png" group-title="Общие",ТНТ4  HD
+#EXTGRP:Общие
+http://ru.kineskop.club/site2/1006_1009521_0badce70cbeab844_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 24" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_24.png" group-title="Новостные",Россия_24
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/80_1009521_b9ba89e61b744f69_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 24" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_24.png" group-title="Новостные",Россия_24 512k
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/723_1009521_906986e111b15e7b_0_0.m3u8
+#EXTINF:0 tvg-name="Известия" tvg-logo="http://ru.kineskop.club/icon_cache/izvestiatv-ru.png" group-title="Новостные",Известия
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/494_1009521_e9e3c1a5ed690273_0_0.m3u8
+#EXTINF:0 tvg-name="РБК" tvg-logo="http://ru.kineskop.club/icon_cache/rbk_tv_ru.png" group-title="Новостные",РБК
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/104_1009521_a7d15a36e0cf21cb_0_0.m3u8
+#EXTINF:0 tvg-name="МИР 24" tvg-logo="http://ru.kineskop.club/icon_cache/mir_24_ru.png" group-title="Новостные",Мир 24
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/323_1009521_29d875471d785acc_0_0.m3u8
+#EXTINF:0 tvg-name="Дождь" tvg-logo="http://ru.kineskop.club/icon_cache/dozhd_ru.png" timeshift="7" group-title="Новостные",Дождь
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/283_1009521_b2c31322d18686d0_0_0.m3u8
+#EXTINF:0 tvg-name="EuroNews" tvg-logo="http://ru.kineskop.club/icon_cache/euronews_fr.png" timeshift="7" group-title="Новостные",Euronews Россия
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/241_1009521_f4ada6d3996c922b_0_0.m3u8
+#EXTINF:0 tvg-name="Про Бизнес" tvg-logo="http://ru.kineskop.club/icon_cache/probiznes.png" group-title="Новостные",Про Бизнес
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/659_1009521_97dad044b01a6049_0_0.m3u8
+#EXTINF:0 tvg-name="Russia Today" tvg-logo="http://ru.kineskop.club/icon_cache/rt_english.png" group-title="Новостные",Russia Today
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/76_1009521_3b9a839a0d821841_0_0.m3u8
+#EXTINF:0 tvg-name="Russia Today HD" tvg-logo="http://ru.kineskop.club/icon_cache/rt_english.png" group-title="Новостные",Russia Today HD
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/391_1009521_1b69f7e56a53b3ba_0_0.m3u8
+#EXTINF:0 tvg-name="CNN International" tvg-logo="http://ru.kineskop.club/icon_cache/cnn_international_global.png" group-title="Новостные",CNN International
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/140_1009521_3b6176ebf3748666_0_0.m3u8
+#EXTINF:0 tvg-name="BBC World" tvg-logo="http://ru.kineskop.club/icon_cache/bbc_world_news_uk.png" group-title="Новостные",BBC World News
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/291_1009521_314094574e871e47_0_0.m3u8
+#EXTINF:0 tvg-name="Bloomberg" tvg-logo="http://ru.kineskop.club/icon_cache/bloomberg_tv_us.png" group-title="Новостные",Bloomberg
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/289_1009521_de7f7c019103b401_0_0.m3u8
+#EXTINF:0 tvg-name="NewsOne" tvg-logo="http://ru.kineskop.club/icon_cache/newsone-ua.png" group-title="Новостные",News One HD
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/759_1009521_82d85a7be6946e5a_0_0.m3u8
+#EXTINF:0 tvg-name="Россия 24" tvg-logo="http://ru.kineskop.club/icon_cache/rossiya_24.png" group-title="Новостные",Россия_24 900k
+#EXTGRP:Новостные
+http://ru.kineskop.club/site2/908_1009521_f5a87f0b52278553_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery World" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_world_us.png" timeshift="7" group-title="Научные",Discovery World
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/862_1009521_35005a0f3295ca11_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_international.png" timeshift="7" group-title="Научные",Discovery Channel
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/96_1009521_2a4e68e21ee3b692_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery HD" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_global_us.png" group-title="Научные",Discovery Channel HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/177_1009521_4d133b884da0d7bc_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery HD Showcase" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_hd_showcase_us.png" timeshift="7" group-title="Научные",Discovery Showcase HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/749_1009521_9ea4f2721aff5e81_0_0.m3u8
+#EXTINF:0 tvg-name="National Geographic" tvg-logo="http://ru.kineskop.club/icon_cache/nat_geo_ru.png" timeshift="7" group-title="Научные",National Geographic
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/92_1009521_55722fca5ac0fa41_0_0.m3u8
+#EXTINF:0 tvg-name="National Geographic HD" tvg-logo="http://ru.kineskop.club/icon_cache/nat_geo_us_hd.png" group-title="Научные",National Geographic HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/240_1009521_53165b1cdacdc63f_0_0.m3u8
+#EXTINF:0 tvg-name="Арсенал HD" tvg-logo="http://ru.kineskop.club/icon_cache/e7cea6eb66f8be76d00447015a25ac94.jpg" group-title="Научные",Арсенал HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/714_1009521_047db407b529f816_0_0.m3u8
+#EXTINF:0 tvg-name="Eureka HD" tvg-logo="http://ru.kineskop.club/icon_cache/eureka_hd_ru.png" group-title="Научные",Eureka HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/479_1009521_a8e22a497cccc24e_0_0.m3u8
+#EXTINF:0 tvg-name="Наука 2.0" tvg-logo="http://ru.kineskop.club/icon_cache/nauka20_ru.png" timeshift="7" group-title="Научные",Наука 2.0
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/109_1009521_fdaf3d7621288bef_0_0.m3u8
+#EXTINF:0 tvg-name="Наука HD" tvg-logo="http://ru.kineskop.club/icon_cache/nauka_ru.png" group-title="Научные",Наука 2.0 HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/828_1009521_381afcf45aa634d2_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery Science" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_science.png" timeshift="7" group-title="Научные",Discovery Science
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/206_1009521_100c0f3d0d21b49e_0_0.m3u8
+#EXTINF:0 tvg-name="Discovery Science HD" tvg-logo="http://ru.kineskop.club/icon_cache/discovery_science_global.png" group-title="Научные",Discovery Science HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/669_1009521_e936ecc67f632768_0_0.m3u8
+#EXTINF:0 tvg-name="Investigation Discovery" tvg-logo="http://ru.kineskop.club/icon_cache/investigation_discovery_us.png" timeshift="7" group-title="Научные",Investigation Discovery
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/203_1009521_222f0ae9a5633efa_0_0.m3u8
+#EXTINF:0 tvg-name="Investigation Discovery HD" tvg-logo="http://ru.kineskop.club/icon_cache/investigation_discovery_us.png" group-title="Научные",Investigation Discovery HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/752_1009521_dc844700821e0969_0_0.m3u8
+#EXTINF:0 tvg-name="ID Investigation Discovery Xtra" tvg-logo="http://ru.kineskop.club/icon_cache/investigation_discovery_xtra.png" group-title="Научные",ID Xtra HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/751_1009521_263322f4cc72e903_0_0.m3u8
+#EXTINF:0 tvg-name="Galaxy" tvg-logo="http://ru.kineskop.club/icon_cache/galaxy_tv_ru.png" group-title="Научные",Galaxy
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/430_1009521_7b45fed49b02053a_0_0.m3u8
+#EXTINF:0 tvg-name="Тайны Галактики HD" tvg-logo="http://ru.kineskop.club/icon_cache/galaxy_tv_ru.png" group-title="Научные",Galaxy HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/775_1009521_c12daf2c01219b92_0_0.m3u8
+#EXTINF:0 tvg-name="Viasat Nature/History HD" tvg-logo="http://ru.kineskop.club/icon_cache/21f18ed3_sm.png" group-title="Научные",Viasat Nature/History HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/528_1009521_f6faa934cb40f7ba_0_0.m3u8
+#EXTINF:0 tvg-name="Домашние животные" tvg-logo="http://ru.kineskop.club/icon_cache/domashnie_zhivotnye.png" group-title="Научные",Домашние животные
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/71_1009521_c2693e786ae99422_0_0.m3u8
+#EXTINF:0 tvg-name="Da Vinci" tvg-logo="http://ru.kineskop.club/icon_cache/da_vinci_learning.png" group-title="Научные",Da Vinci Learning
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/56_1009521_475fe9ebffe91764_0_0.m3u8
+#EXTINF:0 tvg-name="История" tvg-logo="http://ru.kineskop.club/icon_cache/istoriya_telekanal_ru.png" timeshift="7" group-title="Научные",История
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/275_1009521_0641bc7993cbe42d_0_0.m3u8
+#EXTINF:0 tvg-name="History" tvg-logo="http://ru.kineskop.club/icon_cache/history_us.png" timeshift="7" group-title="Научные",History
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/10_1009521_0b5d05cc6fcc2429_0_0.m3u8
+#EXTINF:0 tvg-name="History HD" tvg-logo="http://ru.kineskop.club/icon_cache/history_us.png" group-title="Научные",History HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/231_1009521_78df23f37754cdfa_0_0.m3u8
+#EXTINF:0 tvg-name="H2 HD" tvg-logo="http://ru.kineskop.club/icon_cache/history_us_2.png" group-title="Научные",H2 HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/664_1009521_d3f3c3c1b9a5bfbd_0_0.m3u8
+#EXTINF:0 tvg-name="Моя Планета" tvg-logo="http://ru.kineskop.club/icon_cache/moya_planeta_ru.png" timeshift="7" group-title="Научные",Моя Планета
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/101_1009521_5ea08259ebf730ae_0_0.m3u8
+#EXTINF:0 tvg-name="Планета HD" tvg-logo="http://ru.kineskop.club/icon_cache/planeta_hd_ru.png" group-title="Научные",Планета HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/533_1009521_3284aac9fc226aa1_0_0.m3u8
+#EXTINF:0 tvg-name="Travel" tvg-logo="http://ru.kineskop.club/icon_cache/travel_channel_us.png" group-title="Научные",Travel
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/7_1009521_cb30d49607a8a9b8_0_0.m3u8
+#EXTINF:0 tvg-name="Travel Channel HD" tvg-logo="http://ru.kineskop.club/icon_cache/travel_channel_europe_hd.png" group-title="Научные",Travel HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/142_1009521_c74de4368f670943_0_0.m3u8
+#EXTINF:0 tvg-name="Travel+Adventure" tvg-logo="http://ru.kineskop.club/icon_cache/travel_adventure_channel_ru.png" group-title="Научные",Travel+Adventure
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/469_1009521_93874f37efeaaca9_0_0.m3u8
+#EXTINF:0 tvg-name="Travel + Adventure HD" tvg-logo="http://ru.kineskop.club/icon_cache/travel_adventure_channel_ru.png" group-title="Научные",Travel + Adventure HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/670_1009521_c089ef32182e50c9_0_0.m3u8
+#EXTINF:0 tvg-name="Телепутешествия HD" tvg-logo="http://ru.kineskop.club/icon_cache/tele_travel_hd_ru.png" group-title="Научные",Приключения HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/478_1009521_3404df3ffaf596a2_0_0.m3u8
+#EXTINF:0 tvg-name="Оружие" tvg-logo="http://ru.kineskop.club/icon_cache/oruzhie_telekanal.png" group-title="Научные",Оружие
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/463_1009521_a12f59ab8aeccf87_0_0.m3u8
+#EXTINF:0 tvg-name="Загородная жизнь" tvg-logo="http://ru.kineskop.club/icon_cache/zagorodnaya_zhizn.png" group-title="Научные",Загородная жизнь
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/11_1009521_a1df55262064ba20_0_0.m3u8
+#EXTINF:0 tvg-name="Усадьба" tvg-logo="http://ru.kineskop.club/icon_cache/usadba-ru.png" group-title="Научные",Усадьба
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/38_1009521_e61f541cc924ff92_0_0.m3u8
+#EXTINF:0 tvg-name="Охота и рыбалка" tvg-logo="http://ru.kineskop.club/icon_cache/okhota-i-rybalka-ru.png" group-title="Научные",Охота и рыбалка
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/34_1009521_3c7de28b227025b4_0_0.m3u8
+#EXTINF:0 tvg-name="Диалоги о Рыбалке" tvg-logo="http://ru.kineskop.club/icon_cache/dialogi_o_rybalke_ru.png" group-title="Научные",Диалоги о Рыбалке
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/202_1009521_f515bd68391e84c7_0_0.m3u8
+#EXTINF:0 tvg-name="Дикая Рыбалка HD" tvg-logo="http://ru.kineskop.club/icon_cache/dikaya-rybalka-hd-ru.png" group-title="Научные",Дикая Рыбалка HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/554_1009521_ac3b08a0f620613f_0_0.m3u8
+#EXTINF:0 tvg-name="Дикая Охота HD" tvg-logo="http://ru.kineskop.club/icon_cache/dikaya-okhota-hd-ru.png" group-title="Научные",Дикая Охота HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/555_1009521_c0a695f47ce2f2ef_0_0.m3u8
+#EXTINF:0 tvg-name="Охотник и Рыболов HD" tvg-logo="http://ru.kineskop.club/icon_cache/ohotnik_i_rybolov_hd.png" group-title="Научные",Охотник и Рыболов HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/477_1009521_16a1c2662df0f738_0_0.m3u8
+#EXTINF:0 tvg-name="Здоровое Телевидение" tvg-logo="http://ru.kineskop.club/icon_cache/zdorovoe_ru.png" group-title="Научные",Здоровое ТВ
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/582_1009521_2a8897923f64f8ee_0_0.m3u8
+#EXTINF:0 tvg-name="Ретро ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/retro_tv_ru.png" group-title="Научные",Ретро
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/583_1009521_83c40c2cfa5c7916_0_0.m3u8
+#EXTINF:0 tvg-name="Психология21" tvg-logo="http://ru.kineskop.club/icon_cache/psikhologiya_21.png" timeshift="7" group-title="Научные",Психология 21
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/72_1009521_4aec73968817c0ab_0_0.m3u8
+#EXTINF:0 tvg-name="Вопросы и Ответы" tvg-logo="http://ru.kineskop.club/icon_cache/voprosy_i_otvety.png" group-title="Научные",Вопросы и ответы
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/73_1009521_0cbe0fdcddbcc22e_0_0.m3u8
+#EXTINF:0 tvg-name="Телекафе" tvg-logo="http://ru.kineskop.club/icon_cache/telecafe_ru.png" group-title="Научные",Телекафе
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/181_1009521_ec79b4d43ca2e4ea_0_0.m3u8
+#EXTINF:0 tvg-name="Первый Вегетарианский" tvg-logo="http://ru.kineskop.club/icon_cache/pervyy-vegetarianskiy-ru.png" group-title="Научные",Первый Вегетарианский
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/464_1009521_7cc32a88adc8d58f_0_0.m3u8
+#EXTINF:0 tvg-name="ЕДА Премиум HD" tvg-logo="http://ru.kineskop.club/icon_cache/eda_tv_ru.png" group-title="Научные",Еда Премиум HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/493_1009521_4ac112102908b3eb_0_0.m3u8
+#EXTINF:0 tvg-name="Food Network" tvg-logo="http://ru.kineskop.club/icon_cache/food_network_us.png" group-title="Научные",Food Network
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/263_1009521_677ff0afb990939e_0_0.m3u8
+#EXTINF:0 tvg-name="Food Network HD" tvg-logo="http://ru.kineskop.club/icon_cache/food_network_us.png" group-title="Научные",Food Network HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/672_1009521_44ea5316a6653d7f_0_0.m3u8
+#EXTINF:0 tvg-name="TLC" tvg-logo="http://ru.kineskop.club/icon_cache/tlc_ru.png" group-title="Научные",TLC
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/201_1009521_784a8fb856069bbc_0_0.m3u8
+#EXTINF:0 tvg-name="TLC HD" tvg-logo="http://ru.kineskop.club/icon_cache/tlc_us.png" group-title="Научные",TLC HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/141_1009521_aa764b412f7ae205_0_0.m3u8
+#EXTINF:0 tvg-name="Ocean-TV" tvg-logo="http://ru.kineskop.club/icon_cache/ocean_tv_ru.png" group-title="Научные",Ocean TV
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/215_1009521_524cda19b6662fff_0_0.m3u8
+#EXTINF:0 tvg-name="Совершенно Секретно" tvg-logo="http://ru.kineskop.club/icon_cache/soversheno_sekretno_ru.png" group-title="Научные",Совершенно Секретно
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/216_1009521_097928f0f6d56221_0_0.m3u8
+#EXTINF:0 tvg-name="English Club TV" tvg-logo="http://ru.kineskop.club/icon_cache/english_club_tv.png" timeshift="7" group-title="Научные",English Club
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/264_1009521_eb49b29b995e294c_0_0.m3u8
+#EXTINF:0 tvg-name="Авто24 HD" tvg-logo="http://ru.kineskop.club/icon_cache/avto24_ru.png" group-title="Научные",Авто 24
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/288_1009521_1bbfa1fdb53a3318_0_0.m3u8
+#EXTINF:0 tvg-name="Motor Trend" tvg-logo="http://ru.kineskop.club/icon_cache/motor_trend.png" group-title="Научные",Motor Trend HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/1011_1009521_ca527f2359563e62_0_0.m3u8
+#EXTINF:0 tvg-name="Зоопарк" tvg-logo="http://ru.kineskop.club/icon_cache/zoo_park_ru.png" group-title="Научные",Зоопарк
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/37_1009521_20f36b3e155418cb_0_0.m3u8
+#EXTINF:0 tvg-name="Бобер" tvg-logo="http://ru.kineskop.club/icon_cache/bober_tv_ru.png" group-title="Научные",Бобер
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/48_1009521_3175ad6f3d717a67_0_0.m3u8
+#EXTINF:0 tvg-name="24 Техно" tvg-logo="http://ru.kineskop.club/icon_cache/techno_24_ru.png" group-title="Научные",Т 24
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/59_1009521_df7d93c2936c0fa5_0_0.m3u8
+#EXTINF:0 tvg-name="Доктор" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_doktor_ru.png" group-title="Научные",Доктор
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/50_1009521_94b266046f5bc698_0_0.m3u8
+#EXTINF:0 tvg-name="Russian Travel Guide (RTG TV)" tvg-logo="http://ru.kineskop.club/icon_cache/rtg_russian_travel_guide.png" timeshift="7" group-title="Научные",RTG
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/214_1009521_88ab20e144a41fde_0_0.m3u8
+#EXTINF:0 tvg-name="RTG HD" tvg-logo="http://ru.kineskop.club/icon_cache/rtg_ru_hd.png" group-title="Научные",RTG HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/530_1009521_cf2bb5b38f1a785a_0_0.m3u8
+#EXTINF:0 tvg-name="Мама" tvg-logo="http://ru.kineskop.club/icon_cache/mama_tv_ru.png" group-title="Научные",Мама
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/419_1009521_4fceff12b680fdab_0_0.m3u8
+#EXTINF:0 tvg-name="Мужской" tvg-logo="http://ru.kineskop.club/icon_cache/muzhskoy_ru.png" group-title="Научные",Мужской
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/229_1009521_d8b812550ff30d54_0_0.m3u8
+#EXTINF:0 tvg-name="Outdoor Channel" tvg-logo="http://ru.kineskop.club/icon_cache/outdoor_channel_international.png" group-title="Научные",Outdoor Channel
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/318_1009521_a4e484de4f8db0c1_0_0.m3u8
+#EXTINF:0 tvg-name="Живая Природа HD" tvg-logo="http://ru.kineskop.club/icon_cache/zhivaya_priroda_ru.png" group-title="Научные",Живая Природа HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/134_1009521_c482c574143c5240_0_0.m3u8
+#EXTINF:0 tvg-name="В мире животных" tvg-logo="http://ru.kineskop.club/icon_cache/v-mire-zhivotnykh-ru.png" group-title="Научные",В мире животных HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/534_1009521_c7727e8e4d8a7393_0_0.m3u8
+#EXTINF:0 tvg-name="Дикий" tvg-logo="http://ru.kineskop.club/icon_cache/dikiy-ru.png" group-title="Научные",Дикий
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/544_1009521_a5e93aa65c6d2b4b_0_0.m3u8
+#EXTINF:0 tvg-name="Е" tvg-logo="http://ru.kineskop.club/icon_cache/e-ru.png" group-title="Научные",Е
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/550_1009521_7a7e1266aee65966_0_0.m3u8
+#EXTINF:0 tvg-name="Gametoon HD" tvg-logo="http://ru.kineskop.club/icon_cache/game_toon_us.png" group-title="Научные",Gametoon HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/779_1009521_cc508a94d0480cd4_0_0.m3u8
+#EXTINF:0 tvg-name="Глазами Туриста" tvg-logo="http://ru.kineskop.club/icon_cache/glazami-turista-ru.png" group-title="Научные",Глазами Туриста HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/552_1009521_24bd7f3505f44ac4_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ Право" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru_pravo.png" group-title="Научные",НТВ Право
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/547_1009521_e46e91c0a4ecdf68_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ Стиль" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru_styl.png" group-title="Научные",НТВ Стиль
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/548_1009521_3fca1a610015a27b_0_0.m3u8
+#EXTINF:0 tvg-name="DocuBox HD" tvg-logo="http://ru.kineskop.club/icon_cache/docu_box_hd.png" group-title="Научные",DocuBox
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/560_1009521_32f6a8475a19f716_0_0.m3u8
+#EXTINF:0 tvg-name="993" tvg-logo="http://ru.kineskop.club/icon_cache/docu_box_hd.png" group-title="Научные",DocuBox HD
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/844_1009521_efe02bbac915bdc4_0_0.m3u8
+#EXTINF:0 tvg-name="Nano" tvg-logo="http://ru.kineskop.club/icon_cache/nano-tv-ru.png" group-title="Научные",Nano
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/878_1009521_ef34d6905fc04000_0_0.m3u8
+#EXTINF:0 tvg-name="Живая планета" tvg-logo="http://ru.kineskop.club/icon_cache/zhivaya_planeta_ru.png" group-title="Научные",Живая планета
+#EXTGRP:Научные
+http://ru.kineskop.club/site2/884_1009521_6e3b663e12de0011_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/futbol_ua_1.png" timeshift="7" group-title="Спортивные",Футбол 1 1300k
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/123_1009521_774dbc4af8d6e428_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/futbol_ua_1.png" group-title="Спортивные",Футбол 1 HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/573_1009521_4f7a601b2ec73f24_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол 2" tvg-logo="http://ru.kineskop.club/icon_cache/futbol_ua_2.png" timeshift="7" group-title="Спортивные",Футбол 2
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/172_1009521_23fb417983a47496_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол 2" tvg-logo="http://ru.kineskop.club/icon_cache/futbol_ua_2.png" group-title="Спортивные",Футбол 2 HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/574_1009521_745f7e015127f5b2_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_futbol_ru.png" timeshift="7" group-title="Спортивные",Телеканал Футбол
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/270_1009521_def100b9d6430c47_0_0.m3u8
+#EXTINF:0 tvg-name="Eurosport 2" tvg-logo="http://ru.kineskop.club/icon_cache/eurosport_fr_2.png" timeshift="7" group-title="Спортивные",Eurosport 2 1300k
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/91_1009521_e421c4262de84f07_0_0.m3u8
+#EXTINF:0 tvg-name="Eurosport 2" tvg-logo="http://ru.kineskop.club/icon_cache/eurosport_fr_2.png" group-title="Спортивные",Eurosport 2 HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/253_1009521_1b07ede7cc7914b2_0_0.m3u8
+#EXTINF:0 tvg-name="Setanta Sport HD" tvg-logo="http://ru.kineskop.club/icon_cache/setanta_sports_eurasia.png" timeshift="7" group-title="Спортивные",Сетанта Спорт HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/513_1009521_7a52d9e9178cdb57_0_0.m3u8
+#EXTINF:0 tvg-name="Сетанта Спорт+ HD" tvg-logo="http://ru.kineskop.club/icon_cache/setanta_sports_eurasia_plus.png" timeshift="7" group-title="Спортивные",Сетанта Спорт+ HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/514_1009521_0a91183bcddee185_0_0.m3u8
+#EXTINF:0 tvg-name="Сетанта Спорт UA" tvg-logo="http://ru.kineskop.club/icon_cache/setantaua.png" group-title="Спортивные",Сетанта Спорт UA 1300k
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/843_1009521_33420a3e33f4e902_0_0.m3u8
+#EXTINF:0 tvg-name="Сетанта UA HD" tvg-logo="http://ru.kineskop.club/icon_cache/setantaua.png" group-title="Спортивные",Сетанта Спорт UA HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/796_1009521_5545d10d8d8f2739_0_0.m3u8
+#EXTINF:0 tvg-name="Setanta Sports +" tvg-logo="http://ru.kineskop.club/icon_cache/2017-08-31.jpg" group-title="Спортивные",Сетанта Спорт + UA HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/885_1009521_f248735acc03fb19_0_0.m3u8
+#EXTINF:0 tvg-name="Точка Отрыва" tvg-logo="http://ru.kineskop.club/icon_cache/tochka-otryva-ru.png" group-title="Спортивные",Точка Отрыва
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/482_1009521_f49972cc6fd9fba7_0_0.m3u8
+#EXTINF:0 tvg-name="Конный мир" tvg-logo="http://ru.kineskop.club/icon_cache/konniy_mir_ru.png" group-title="Спортивные",Конный Мир HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/322_1009521_b8db5c8f83e9d865_0_0.m3u8
+#EXTINF:0 tvg-name="XSport" tvg-logo="http://ru.kineskop.club/icon_cache/x_sport_ua.png" timeshift="7" group-title="Спортивные",XSport
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/371_1009521_a1624635051f4290_0_0.m3u8
+#EXTINF:0 tvg-name="Русский Экстрим HD" tvg-logo="http://ru.kineskop.club/icon_cache/russian_extreme_ru.png" timeshift="7" group-title="Спортивные",Русский Экстрим HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/539_1009521_c3e12effb93458fb_0_0.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox HD" tvg-logo="http://ru.kineskop.club/icon_cache/fast_and_fun_box_hd.png" group-title="Спортивные",Fast&FunBox
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/562_1009521_c4199cbce77f36e9_0_0.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox HD" tvg-logo="http://ru.kineskop.club/icon_cache/fast_and_fun_box_hd.png" group-title="Спортивные",Fast&FunBox HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/845_1009521_b7f2d873acde10e8_0_0.m3u8
+#EXTINF:0 tvg-name="FightBox" tvg-logo="http://ru.kineskop.club/icon_cache/fight_box_hd.png" timeshift="7" group-title="Спортивные",FightBox
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/563_1009521_28d8c24ea3fabf3d_0_0.m3u8
+#EXTINF:0 tvg-name="FightBox HD" tvg-logo="http://ru.kineskop.club/icon_cache/fight_box_hd.png" group-title="Спортивные",FightBox HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/846_1009521_4dc485f6e27d8109_0_0.m3u8
+#EXTINF:0 tvg-name="Super Tennis HD" tvg-logo="http://ru.kineskop.club/icon_cache/super_tennis_it.png" group-title="Спортивные",Super Tennis HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/658_1009521_bca0788019bf565d_0_0.m3u8
+#EXTINF:0 tvg-name="Моторспорт ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/motorsport_tv_fr.png" group-title="Спортивные",Моторспорт HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/719_1009521_b0f17603246b3ad7_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/238232d3b3.jpeg" group-title="Спортивные",Мир баскетбола
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/739_1009521_ca1f1dc2c2953126_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/1548181287_1496168223_sport1.png" group-title="Спортивные",Sport 1
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/786_1009521_cfc4612638e666d2_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/1548180548_1496168329_sport2-ukraina.jpg" group-title="Спортивные",Sport 2
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/787_1009521_f93da5920b579d77_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол 3" tvg-logo="http://orig.kineskop.club/icon_cache/854c02537x295-football3-hd.jpg" group-title="Спортивные",Футбол 3 HD Orig
+#EXTGRP:Спортивные
+http://orig.kineskop.club/site2/872/1009521_1732f872b1948776_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол 3" tvg-logo="http://ru.kineskop.club/icon_cache/854c02537x295-football3-hd.jpg" group-title="Спортивные",Футбол 3 HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/873_1009521_a083631d690c3181_0_0.m3u8
+#EXTINF:0 tvg-name="Футбол 3 (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/854c02537x295-football3-hd.jpg" group-title="Спортивные",Футбол 3
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/874_1009521_2bb8f10f5aae5289_0_0.m3u8
+#EXTINF:0 tvg-name="UFC HD" tvg-logo="http://ru.kineskop.club/icon_cache/fight_sports_us.png" group-title="Спортивные",UFC HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/827_1009521_e4bb43e977208731_0_0.m3u8
+#EXTINF:0 tvg-name="Старт HD" tvg-logo="http://ru.kineskop.club/icon_cache/610b5ac235c24f223a1ec3c943f182a4.jpg" group-title="Спортивные",Старт HD
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/881_1009521_85304c499bc9b198_0_0.m3u8
+#EXTINF:0 tvg-name="Extreme Sports" tvg-logo="http://ru.kineskop.club/icon_cache/extreme_sports.png" timeshift="7" group-title="Спортивные",Extreme Sports
+#EXTGRP:Спортивные
+http://ru.kineskop.club/site2/211_1009521_3d33f02b94bd9d7a_0_0.m3u8
+#EXTINF:0 tvg-name="TV 1000 HD" tvg-logo="http://ru.kineskop.club/icon_cache/viasat_tv1000_east.png" timeshift="7" group-title="Кино",TV 1000 HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/870_1009521_f57be9ff9fd916fe_0_0.m3u8
+#EXTINF:0 tvg-name="TV 1000 Русское Кино HD" tvg-logo="http://ru.kineskop.club/icon_cache/viasat_tv1000_russkoe_kino.png" timeshift="7" group-title="Кино",TV 1000 Русское Кино HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/883_1009521_45a67824b844368e_0_0.m3u8
+#EXTINF:0 tvg-name="AMEDIA 1" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_1.png" timeshift="7" group-title="Кино",A1
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/295_1009521_fb95bd37b0c1a063_0_0.m3u8
+#EXTINF:0 tvg-name="A1 HD" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_1.png" group-title="Кино",A1 HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/847_1009521_893036852e1e6a66_0_0.m3u8
+#EXTINF:0 tvg-name="AMEDIA 2" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_2.png" timeshift="7" group-title="Кино",A2
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/311_1009521_2a55597d63563074_0_0.m3u8
+#EXTINF:0 tvg-name="Amedia Premium" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_premium_hd.png" timeshift="7" group-title="Кино",Amedia Premium
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/296_1009521_ffa9c3faf609ae78_0_0.m3u8
+#EXTINF:0 tvg-name="Amedia Premium HD" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_premium_hd.png" group-title="Кино",Amedia Premium HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/139_1009521_29cb4639678cefa2_0_0.m3u8
+#EXTINF:0 tvg-name="Amedia Hit" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_hit.png" timeshift="7" group-title="Кино",Amedia Hit
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/336_1009521_3b0818258cccdb03_0_0.m3u8
+#EXTINF:0 tvg-name="Amedia Hit HD" tvg-logo="http://ru.kineskop.club/icon_cache/a_media_ru_hit.png" group-title="Кино",Amedia Hit HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/553_1009521_d9d55e11f747d2f7_0_0.m3u8
+#EXTINF:0 tvg-name="Шокирующее HD" tvg-logo="http://ru.kineskop.club/icon_cache/shokiruyushcheye-ru.png" timeshift="7" group-title="Кино",Шокирующее HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/472_1009521_d122d03620b5d1f6_0_0.m3u8
+#EXTINF:0 tvg-name="Комедийное HD" tvg-logo="http://ru.kineskop.club/icon_cache/621.gif" timeshift="7" group-title="Кино",Комедийное HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/473_1009521_c3c772d2d9a31a31_0_0.m3u8
+#EXTINF:0 tvg-name="Наше Крутое HD" tvg-logo="http://ru.kineskop.club/icon_cache/40642714e1450332503550613ce28a89.png" timeshift="7" group-title="Кино",Наше Крутое HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/474_1009521_5842faf2079fce5d_0_0.m3u8
+#EXTINF:0 tvg-name="Наш Кинороман HD" tvg-logo="http://ru.kineskop.club/icon_cache/nash_kinoroman_ru.png" timeshift="7" group-title="Кино",Наш Кинороман HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/475_1009521_1c4b741744e6f9fc_0_0.m3u8
+#EXTINF:0 tvg-name="Остросюжетное Кино HD" tvg-logo="http://ru.kineskop.club/icon_cache/ostrosuyzhetnoye_ru_hd.png" timeshift="7" group-title="Кино",Остросюжетное Кино HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/476_1009521_39dae087cfa577aa_0_0.m3u8
+#EXTINF:0 tvg-name="Настоящее_Страшное_ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/nastoyashee_strashnoe_tv_ru.png" timeshift="7" group-title="Кино",Настоящее Страшное ТВ
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/67_1009521_26e3be8302d5fd02_0_0.m3u8
+#EXTINF:0 tvg-name="Кино Премиум HD" tvg-logo="http://ru.kineskop.club/icon_cache/kino_premium_ru_hd.png" timeshift="7" group-title="Кино",Кино Премиум HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/471_1009521_2e76dcf1393054fc_0_0.m3u8
+#EXTINF:0 tvg-name="Кино ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/kino_tv_ru.png" group-title="Кино",Кино ТВ HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/274_1009521_081f1ea5526b7471_0_0.m3u8
+#EXTINF:0 tvg-name="Кино ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/kino_tv_ru.png" timeshift="7" group-title="Кино",Кино ТВ
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/447_1009521_7294e1bbde06f0c8_0_0.m3u8
+#EXTINF:0 tvg-name="Hollywood" tvg-logo="http://ru.kineskop.club/icon_cache/1553193212_hollywood.png" group-title="Кино",Hollywood
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/660_1009521_4769db8dba4376ad_0_0.m3u8
+#EXTINF:0 tvg-name="Hollywood HD" tvg-logo="http://ru.kineskop.club/icon_cache/hollywood-hd-us-ru.png" group-title="Кино",Hollywood HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/249_1009521_6575e37df4903566_0_0.m3u8
+#EXTINF:0 tvg-name="CBS Reality" tvg-logo="http://ru.kineskop.club/icon_cache/cbs_reality_eu.png" timeshift="7" group-title="Кино",CBS Reality
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/209_1009521_cec8adfda605b0c3_0_0.m3u8
+#EXTINF:0 tvg-name="Paramount Channel" tvg-logo="http://ru.kineskop.club/icon_cache/paramount_channel_us.png" timeshift="7" group-title="Кино",Paramount Channel
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/75_1009521_dd876e4d8bd07ca1_0_0.m3u8
+#EXTINF:0 tvg-name="Paramount Channel HD" tvg-logo="http://ru.kineskop.club/icon_cache/paramount_channel_us.png" timeshift="7" group-title="Кино",Paramount Channel HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/826_1009521_750b5df79eada55e_0_0.m3u8
+#EXTINF:0 tvg-name="Paramount Comedy" tvg-logo="http://ru.kineskop.club/icon_cache/paramount_comedy_ru.png" timeshift="7" group-title="Кино",Paramount Comedy
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/113_1009521_e00960e2129e4b38_0_0.m3u8
+#EXTINF:0 tvg-name="Fox" tvg-logo="http://ru.kineskop.club/icon_cache/fox_ru.png" timeshift="7" group-title="Кино",Fox
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/77_1009521_d761b4b55fadf89c_0_0.m3u8
+#EXTINF:0 tvg-name="Fox HD" tvg-logo="http://ru.kineskop.club/icon_cache/fox_global.png" group-title="Кино",Fox HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/527_1009521_9d8de5de45d9322d_0_0.m3u8
+#EXTINF:0 tvg-name="Fox Life" tvg-logo="http://ru.kineskop.club/icon_cache/fox_life_global.png" timeshift="7" group-title="Кино",Fox Life
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/78_1009521_ea4881e113c0342a_0_0.m3u8
+#EXTINF:0 tvg-name="Fox Life Россия HD" tvg-logo="http://ru.kineskop.club/icon_cache/fox_life_global.png" group-title="Кино",Fox Life HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/673_1009521_139c870e6c92cf14_0_0.m3u8
+#EXTINF:0 tvg-name="Cinema" tvg-logo="http://ru.kineskop.club/icon_cache/telekarta_ru_cinema.png" timeshift="7" group-title="Кино",Cinema
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/217_1009521_132a0a99b02fe3b3_0_0.m3u8
+#EXTINF:0 tvg-name="Дом кино" tvg-logo="http://ru.kineskop.club/icon_cache/perviy_2_dom_kino.png" timeshift="7" group-title="Кино",Дом Кино
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/121_1009521_34f5250d13aba47b_0_0.m3u8
+#EXTINF:0 tvg-name="Победа" tvg-logo="http://ru.kineskop.club/icon_cache/c658ac04d4e2812e530179275396e8db.PNG" group-title="Кино",Победа
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/776_1009521_bad9643cc948835c_0_0.m3u8
+#EXTINF:0 tvg-name="Победа" tvg-logo="http://ru.kineskop.club/icon_cache/c658ac04d4e2812e530179275396e8db.PNG" group-title="Кино",Победа HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/889_1009521_f0ba220780642c4a_0_0.m3u8
+#EXTINF:0 tvg-name="Русский Иллюзион" tvg-logo="http://ru.kineskop.club/icon_cache/russkij_illusion.png" timeshift="7" group-title="Кино",Русский Иллюзион
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/63_1009521_9d6006c4ff21395b_0_0.m3u8
+#EXTINF:0 tvg-name="Иллюзион +" tvg-logo="http://ru.kineskop.club/icon_cache/illusion_plus.png" timeshift="7" group-title="Кино",Иллюзион +
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/64_1009521_34c443180e06e61f_0_0.m3u8
+#EXTINF:0 tvg-name="TV XXI (TV21)" tvg-logo="http://ru.kineskop.club/icon_cache/tv21_lv.png" group-title="Кино",ТВ 21
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/65_1009521_ee90588cfe9ae871_0_0.m3u8
+#EXTINF:0 tvg-name="Еврокино" tvg-logo="http://ru.kineskop.club/icon_cache/eurokino.png" timeshift="7" group-title="Кино",Еврокино
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/68_1009521_18cb314148c38912_0_0.m3u8
+#EXTINF:0 tvg-name="Русский бестселлер" tvg-logo="http://ru.kineskop.club/icon_cache/russkiy_bestseller_ru.png" timeshift="7" group-title="Кино",Русский Бестселлер
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/99_1009521_6385510136bd735f_0_0.m3u8
+#EXTINF:0 tvg-name="Русский детектив" tvg-logo="http://ru.kineskop.club/icon_cache/russkiy_detektiv_ru.png" timeshift="7" group-title="Кино",Русский Детектив
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/276_1009521_4061a530998cc523_0_0.m3u8
+#EXTINF:0 tvg-name="Русский роман" tvg-logo="http://ru.kineskop.club/icon_cache/russkiy_roman_ru.png" timeshift="7" group-title="Кино",Русский Роман
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/116_1009521_f3224f9221db9a66_0_0.m3u8
+#EXTINF:0 tvg-name="Русская Комедия" tvg-logo="http://ru.kineskop.club/icon_cache/russkaya_komediya_ru.png" group-title="Кино",Русская Комедия
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/421_1009521_09d77c3d458b951c_0_0.m3u8
+#EXTINF:0 tvg-name="Мир сериалов" tvg-logo="http://ru.kineskop.club/icon_cache/mir_seriala_ru.png" timeshift="7" group-title="Кино",Мир Сериала
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/40_1009521_0588ced850e2eece_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ Сериал" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_ru_serial.png" timeshift="7" group-title="Кино",НТВ Сериал
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/468_1009521_91ae37c1982491b6_0_0.m3u8
+#EXTINF:0 tvg-name="Супер" tvg-logo="http://ru.kineskop.club/icon_cache/super-ru.png" group-title="Кино",Супер
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/314_1009521_ee69732095903cda_0_0.m3u8
+#EXTINF:0 tvg-name="Супер +2" tvg-logo="http://ru.kineskop.club/icon_cache/super-ru.png" group-title="Кино",Супер +2
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/804_1009521_db1899c458b3af3d_0_0.m3u8
+#EXTINF:0 tvg-name="390" tvg-logo="http://ru.kineskop.club/icon_cache/fenix_plus_kino.png" group-title="Кино",Феникс+Кино
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/777_1009521_8aef64355540ee56_0_0.m3u8
+#EXTINF:0 tvg-name="Sony Turbo" tvg-logo="http://ru.kineskop.club/icon_cache/sony_turbo_ru.png" timeshift="7" group-title="Кино",Sony Turbo
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/45_1009521_15c6b654d4799eda_0_0.m3u8
+#EXTINF:0 tvg-name="SONY ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/set_eastern_europe.png" group-title="Кино",Sony 1300k
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/86_1009521_75aba47da502e362_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/set_eastern_europe.png" timeshift="7" group-title="Кино",Sony HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/465_1009521_87e45be745588904_0_0.m3u8
+#EXTINF:0 tvg-name="SONY Sci-Fi" tvg-logo="http://ru.kineskop.club/icon_cache/sony_scifi_ru.png" timeshift="7" group-title="Кино",Sony Sci-Fi
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/87_1009521_5dd5ff819bf2488e_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shot-tv.gif" group-title="Кино",Shot TV
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/232_1009521_302d6a7b7a3ab170_0_0.m3u8
+#EXTINF:0 tvg-name="РТВ - Любимое кино" tvg-logo="http://ru.kineskop.club/icon_cache/nashe_lubimoe_kino.png" timeshift="7" group-title="Кино",Любимое Кино
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/236_1009521_e4cb36ec374a5aba_0_0.m3u8
+#EXTINF:0 tvg-name="Дом Кино Премиум HD" tvg-logo="http://ru.kineskop.club/icon_cache/dom_kino_ru_premium.png" timeshift="7" group-title="Кино",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/458_1009521_efbb166282804780_0_0.m3u8
+#EXTINF:0 tvg-name="Bollywood HD" tvg-logo="http://ru.kineskop.club/icon_cache/bollywood_ru_hd.png" group-title="Кино",Bollywood HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/531_1009521_34a32cffc7058160_0_0.m3u8
+#EXTINF:0 tvg-name="Наше любимое" tvg-logo="http://ru.kineskop.club/icon_cache/nashe_lubimoe_ru.png" timeshift="7" group-title="Кино",Наше любимое HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/535_1009521_539c9768a77a7911_0_0.m3u8
+#EXTINF:0 tvg-name="Spike" tvg-logo="http://ru.kineskop.club/icon_cache/spike_tv_us.png" group-title="Кино",Spike
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/541_1009521_cc160ebfbba80a7f_0_0.m3u8
+#EXTINF:0 tvg-name="Spike HD" tvg-logo="http://ru.kineskop.club/icon_cache/spike_tv_us.png" group-title="Кино",Spike HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/1009_1009521_c0c83a60681e9f42_0_0.m3u8
+#EXTINF:0 tvg-name="НТВ Хит" tvg-logo="http://ru.kineskop.club/icon_cache/ntv-hit-ru.png" group-title="Кино",НТВ Хит
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/549_1009521_1d256a6b5c5c8bb7_0_0.m3u8
+#EXTINF:0 tvg-name="Дорама" tvg-logo="http://ru.kineskop.club/icon_cache/dorama-uk.png" timeshift="7" group-title="Кино",Дорама
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/551_1009521_59917e8565dc99cb_0_0.m3u8
+#EXTINF:0 tvg-name="FilmBox" tvg-logo="http://ru.kineskop.club/icon_cache/filmbox_baltic.png" timeshift="7" group-title="Кино",FilmBox
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/564_1009521_85aac5cb1361cff2_0_0.m3u8
+#EXTINF:0 tvg-name="FilmBox Arthouse" tvg-logo="http://ru.kineskop.club/icon_cache/filmbox_arthouse_pl.png" timeshift="7" group-title="Кино",FilmBox Arthouse
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/565_1009521_2eb9e8bd4df543d9_0_0.m3u8
+#EXTINF:0 tvg-name="Романтичное " tvg-logo="http://ru.kineskop.club/icon_cache/romantichnoe-ru.png" group-title="Кино",Романтичное HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/656_1009521_91228c114b4bdd8d_0_0.m3u8
+#EXTINF:0 tvg-name="A2 HD" tvg-logo="http://ru.kineskop.club/icon_cache/atv_tr_2.png" group-title="Кино",A2 HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/689_1009521_936a23087d70c9f5_0_0.m3u8
+#EXTINF:0 tvg-name="КиноСат" tvg-logo="http://ru.kineskop.club/icon_cache/kinosat-ru.png" group-title="Кино",КиноСат
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/879_1009521_3a658cdf5f52e818_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/1f6b94a5af560ae2fd52933dfd2f8c66.png" group-title="Кино",День Победы HD
+#EXTGRP:Кино
+http://ru.kineskop.club/site2/1004_1009521_ef06703471d3f4c1_0_0.m3u8
+#EXTINF:0 tvg-name="Nickelodeon" tvg-logo="http://ru.kineskop.club/icon_cache/nickelodeon_cis.png" timeshift="7" group-title="Детские",Nickelodeon
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/62_1009521_973c45ab91244a48_0_0.m3u8
+#EXTINF:0 tvg-name="Nickelodeon HD" tvg-logo="http://ru.kineskop.club/icon_cache/nickelodeon_us_hd.png" group-title="Детские",Nickelodeon HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/526_1009521_ddc85cfc6ba7c2a7_0_0.m3u8
+#EXTINF:0 tvg-name="Cartoon Network" tvg-logo="http://ru.kineskop.club/icon_cache/cartoon_network_ru_see.png" timeshift="7" group-title="Детские",Cartoon Network
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/94_1009521_1192d9395d095973_0_0.m3u8
+#EXTINF:0 tvg-name="Бумеранг" tvg-logo="http://ru.kineskop.club/icon_cache/boomerang_global.png" group-title="Детские",Бумеранг
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/420_1009521_0c994f04c1da55c3_0_0.m3u8
+#EXTINF:0 tvg-name="Disney Channel" tvg-logo="http://ru.kineskop.club/icon_cache/disney_channel_ru.png" group-title="Детские",Дисней
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/85_1009521_55ae0491d8da2e53_0_0.m3u8
+#EXTINF:0 tvg-name="Tiji" tvg-logo="http://ru.kineskop.club/icon_cache/tiji.png" group-title="Детские",Tiji
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/261_1009521_d1f8013725a8e55f_0_0.m3u8
+#EXTINF:0 tvg-name="Gulli" tvg-logo="http://ru.kineskop.club/icon_cache/gulli.png" group-title="Детские",Gulli
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/262_1009521_d554e8fe94a7f8da_0_0.m3u8
+#EXTINF:0 tvg-name="Мульт HD" tvg-logo="http://ru.kineskop.club/icon_cache/mult_ru.png" group-title="Детские",Мульт HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/488_1009521_af9c92e5ac46b249_0_0.m3u8
+#EXTINF:0 tvg-name="Капитан Фантастика HD" tvg-logo="http://ru.kineskop.club/icon_cache/kapitan-fantastika-ru.png" group-title="Детские",Капитан Фантастика HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/713_1009521_06ec3c0980c0ac4d_0_0.m3u8
+#EXTINF:0 tvg-name="Мульт" tvg-logo="http://ru.kineskop.club/icon_cache/mult_ru.png" group-title="Детские",Мульт
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/278_1009521_07de91b6b4c2a22d_0_0.m3u8
+#EXTINF:0 tvg-name="Мультиландия" tvg-logo="http://ru.kineskop.club/icon_cache/multimania_ru.png" group-title="Детские",Мультиландия
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/105_1009521_a587b1e930119e46_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/61_1009521_ff2a8a5cd1a486d6_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель 512k
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/721_1009521_f6da3a5e627a7bcb_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель +2" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель +2
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/440_1009521_f786ba6a5687a997_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель +4" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель +4
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/441_1009521_5c4e518027eeef8b_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель +6" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель +6
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/438_1009521_977e3448a73825a9_0_0.m3u8
+#EXTINF:0 tvg-name="Nick Jr" tvg-logo="http://ru.kineskop.club/icon_cache/nick_jr_us.png" group-title="Детские",Nick Jr
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/268_1009521_73b02cbe7427d14a_0_0.m3u8
+#EXTINF:0 tvg-name="Nick Jr EN" tvg-logo="http://ru.kineskop.club/icon_cache/nick_jr_us.png" group-title="Детские",Nick Jr EN
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/538_1009521_fcb28bf171b06578_0_0.m3u8
+#EXTINF:0 tvg-name="Канал 2x2" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_2x2_ru.png" timeshift="7" group-title="Детские",2x2
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/89_1009521_d9b97dbdcf6438bb_0_0.m3u8
+#EXTINF:0 tvg-name="Канал 2x2" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_2x2_ru.png" group-title="Детские",2x2 512k
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/724_1009521_d35c4ef94e8d359f_0_0.m3u8
+#EXTINF:0 tvg-name="2x2 +2" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_2x2_ru.png" group-title="Детские",2x2 +2
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/806_1009521_dbb7b0613df9c2d1_0_0.m3u8
+#EXTINF:0 tvg-name="Уникум" tvg-logo="http://ru.kineskop.club/icon_cache/1576616446_un.png" group-title="Детские",Уникум
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/60_1009521_b951d4aed192c501_0_0.m3u8
+#EXTINF:0 tvg-name="JimJam" tvg-logo="http://ru.kineskop.club/icon_cache/jim_jam_ru.png" group-title="Детские",JimJam
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/266_1009521_d08cc1ec9bfac29f_0_0.m3u8
+#EXTINF:0 tvg-name="Радость Моя" tvg-logo="http://ru.kineskop.club/icon_cache/radost_moya.png" group-title="Детские",Радость Моя
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/124_1009521_a660151fe2cb9d84_0_0.m3u8
+#EXTINF:0 tvg-name="Ani" tvg-logo="http://ru.kineskop.club/icon_cache/ani_tv_ru.png" group-title="Детские",Ani
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/146_1009521_a23e0a01fc2413c6_0_0.m3u8
+#EXTINF:0 tvg-name="Детский мир" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_plus_detski_mir.png" timeshift="7" group-title="Детские",Детский Мир/Телеклуб
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/183_1009521_4e72c6d830a2ced9_0_0.m3u8
+#EXTINF:0 tvg-name="В Гостях у Сказки" tvg-logo="http://ru.kineskop.club/icon_cache/v_gostyakh_u_skazki_ru.png" timeshift="7" group-title="Детские",В Гостях у Сказки
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/424_1009521_b37356eb142a088a_0_0.m3u8
+#EXTINF:0 tvg-name="Мультимузыка" tvg-logo="http://ru.kineskop.club/icon_cache/mult-i-muzyka-ru.png" group-title="Детские",Мультимузыка
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/115_1009521_1c04e83efa976a96_0_0.m3u8
+#EXTINF:0 tvg-name="О!" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_o_ru.png" group-title="Детские",О!
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/546_1009521_79538b2bd15aea48_0_0.m3u8
+#EXTINF:0 tvg-name="FAN" tvg-logo="http://ru.kineskop.club/icon_cache/fan-ru.png" group-title="Детские",FAN 1300k
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/655_1009521_64ff099cbda3a9b2_0_0.m3u8
+#EXTINF:0 tvg-name="Fan" tvg-logo="http://ru.kineskop.club/icon_cache/523535eb04bd68a8137abff63d6d6be2.png" group-title="Детские",Fan HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/679_1009521_18b5cac893082436_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/niki-junior-ua.png" group-title="Детские",NIKI Junior HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/741_1009521_10a72e8049a1a147_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/niki-kids-ua.png" group-title="Детские",NIKI Kids HD
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/742_1009521_d9273a82241611b5_0_0.m3u8
+#EXTINF:0 tvg-name="Duck TV" tvg-logo="http://ru.kineskop.club/icon_cache/duck_tv_sk_sd.png" group-title="Детские",Duck TV
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/855_1009521_b8414beb3d3b401a_0_0.m3u8
+#EXTINF:0 tvg-name="Baby TV" tvg-logo="http://ru.kineskop.club/icon_cache/baby_tv_eu.png" group-title="Детские",Baby TV
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/859_1009521_f3eb6713f34c9479_0_0.m3u8
+#EXTINF:0 tvg-name="Карусель" tvg-logo="http://ru.kineskop.club/icon_cache/karusel_tv.png" group-title="Детские",Карусель 900k
+#EXTGRP:Детские
+http://ru.kineskop.club/site2/1003_1009521_f81ebf28b84e6a01_0_0.m3u8
+#EXTINF:0 tvg-name="Europa Plus TV" tvg-logo="http://ru.kineskop.club/icon_cache/europa_plus_tv.png" group-title="Музыкальные",Europa Plus TV
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/112_1009521_09922582baaa94f4_0_0.m3u8
+#EXTINF:0 tvg-name="ТНТ Music" tvg-logo="http://ru.kineskop.club/icon_cache/tnt-music-ru.png" group-title="Музыкальные",ТНТ Music
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/44_1009521_7b7ee25d1f7a7d69_0_0.m3u8
+#EXTINF:0 tvg-name="Наше ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/nashe_ru.png" group-title="Музыкальные",Наше ТВ
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/467_1009521_e24879f7bc268642_0_0.m3u8
+#EXTINF:0 tvg-name="МУЗ-ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/muz_tv.png" group-title="Музыкальные",Муз ТВ
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/317_1009521_d8002ae13797e2f9_0_0.m3u8
+#EXTINF:0 tvg-name="Music Box Ua" tvg-logo="http://ru.kineskop.club/icon_cache/music-box-ukraina-ua.png" group-title="Музыкальные",Music Box UA HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/28_1009521_3b734571d7c4e797_0_0.m3u8
+#EXTINF:0 tvg-name="М-1" tvg-logo="http://ru.kineskop.club/icon_cache/m1_ua.png" group-title="Музыкальные",M1
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/165_1009521_2be80658cc868589_0_0.m3u8
+#EXTINF:0 tvg-name="O-TV Music" tvg-logo="http://ru.kineskop.club/icon_cache/otv.png" group-title="Музыкальные",OTV Music
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/167_1009521_5cdda1fc57b191a9_0_0.m3u8
+#EXTINF:0 tvg-name="C Music TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/c_music_tv.png" group-title="Музыкальные",C Music TV HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/558_1009521_981ad2f08cf3e09d_0_0.m3u8
+#EXTINF:0 tvg-name="RU.TV" tvg-logo="http://ru.kineskop.club/icon_cache/ru_tv_ru.png" group-title="Музыкальные",Ru TV
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/260_1009521_ed75dcbd5347e1ee_0_0.m3u8
+#EXTINF:0 tvg-name="Музыка" tvg-logo="http://ru.kineskop.club/icon_cache/muzika_pervogo_ru.png" group-title="Музыкальные",Музыка Первого
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/83_1009521_3f884e7bb8ccfdfe_0_0.m3u8
+#EXTINF:0 tvg-name="1HD" tvg-logo="http://ru.kineskop.club/icon_cache/1_hd_ru.png" group-title="Музыкальные",1HD Music
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/459_1009521_7806058e401c7141_0_0.m3u8
+#EXTINF:0 tvg-name="VH1 Classic" tvg-logo="http://ru.kineskop.club/icon_cache/vh1_classic_europe.png" group-title="Музыкальные",VH1 Classic
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/136_1009521_341131bd901564cb_0_0.m3u8
+#EXTINF:0 tvg-name="VH1 European" tvg-logo="http://ru.kineskop.club/icon_cache/vh1_global.png" group-title="Музыкальные",VH1 Europe
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/107_1009521_71223782e227cb52_0_0.m3u8
+#EXTINF:0 tvg-name="Mezzo" tvg-logo="http://ru.kineskop.club/icon_cache/mezzo-fr.png" group-title="Музыкальные",Mezzo
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/267_1009521_423a764246d20bab_0_0.m3u8
+#EXTINF:0 tvg-name="Mezzo Live HD" tvg-logo="http://ru.kineskop.club/icon_cache/mezzo_live_hd.png" group-title="Музыкальные",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/254_1009521_c89a63612fe33d60_0_0.m3u8
+#EXTINF:0 tvg-name="MCM Top" tvg-logo="http://ru.kineskop.club/icon_cache/mcm_top.png" group-title="Музыкальные",MCM Top
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/210_1009521_2b2a76293c1635b8_0_0.m3u8
+#EXTINF:0 tvg-name="MTV Россия" tvg-logo="http://ru.kineskop.club/icon_cache/mtv_ru.png" group-title="Музыкальные",MTV RU
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/103_1009521_be3fca7f43cb8424_0_0.m3u8
+#EXTINF:0 tvg-name="MTV Live HD" tvg-logo="http://ru.kineskop.club/icon_cache/mtv_live_hd_us.png" group-title="Музыкальные",MTV Live HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/525_1009521_88506f0095b5e681_0_0.m3u8
+#EXTINF:0 tvg-name="MTV Dance" tvg-logo="http://ru.kineskop.club/icon_cache/mtv_dance_uk.png" group-title="Музыкальные",MTV Dance
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/208_1009521_486087fc89af60d5_0_0.m3u8
+#EXTINF:0 tvg-name="MTV Rocks" tvg-logo="http://ru.kineskop.club/icon_cache/mtv_rocks_us.png" group-title="Музыкальные",MTV Rocks
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/307_1009521_6042859acf3c57ee_0_0.m3u8
+#EXTINF:0 tvg-name="MTV Hits" tvg-logo="http://ru.kineskop.club/icon_cache/mtv_hits_us_global.png" group-title="Музыкальные",MTV Hits
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/309_1009521_f36223a9af6fd8ba_0_0.m3u8
+#EXTINF:0 tvg-name="Bridge TV" tvg-logo="http://ru.kineskop.club/icon_cache/bridge_tv_ru.png" group-title="Музыкальные",Bridge TV
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/319_1009521_5ae0dcf468ad7ebb_0_0.m3u8
+#EXTINF:0 tvg-name="Bridge Deluxe HD" tvg-logo="http://ru.kineskop.club/icon_cache/bridge_tv_ru_hd.png" group-title="Музыкальные",Bridge Deluxe HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/457_1009521_4f6abe9badc5f7d4_0_0.m3u8
+#EXTINF:0 tvg-name="Bridge TV Classic" tvg-logo="http://ru.kineskop.club/icon_cache/bridge_tv_ru_classic.png" group-title="Музыкальные",Bridge TV Classic
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/452_1009521_0067bb70c95d549b_0_0.m3u8
+#EXTINF:0 tvg-name="Bridge TV Hits" tvg-logo="http://ru.kineskop.club/icon_cache/bridge-tv-hits-ru.png" group-title="Музыкальные",Bridge TV Hits
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/453_1009521_a3ea57228d6f39f8_0_0.m3u8
+#EXTINF:0 tvg-name="Bridge TV Русский Хит" tvg-logo="http://ru.kineskop.club/icon_cache/bridge-tv-russkiy-hit-ru.png" group-title="Музыкальные",Bridge TV Русский Хит
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/320_1009521_a0acd96763d401e7_0_0.m3u8
+#EXTINF:0 tvg-name="Russian MusicBox" tvg-logo="http://ru.kineskop.club/icon_cache/russian_music_box.png" group-title="Музыкальные",Russian MusicBox 1300k
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/380_1009521_90b033b1480c29fa_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shanson_tv_ru.png" group-title="Музыкальные",Шансон ТВ
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/25_1009521_3c931652f82d63fc_0_0.m3u8
+#EXTINF:0 tvg-name="Russian Music Box" tvg-logo="http://ru.kineskop.club/icon_cache/russian_music_box.png" group-title="Музыкальные",Russian MusicBox HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/540_1009521_c4eb66cc7420d8ba_0_0.m3u8
+#EXTINF:0 tvg-name="Stingray IConcerts" tvg-logo="http://ru.kineskop.club/icon_cache/stingray-iconcerts-ca.png" group-title="Музыкальные",Stingray IConcerts HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/663_1009521_4e99678a032e3668_0_0.m3u8
+#EXTINF:0 tvg-name="О!2 HD" tvg-logo="http://ru.kineskop.club/icon_cache/o2_tv_ru.png" group-title="Музыкальные",О!2 HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/680_1009521_bdff902adeb04011_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/eu_music_tv_ua.png" group-title="Музыкальные",EU Music HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/740_1009521_9e6fb1626a877e6a_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/4ever-music-ua.png" group-title="Музыкальные",4ever Music HD
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/743_1009521_da42362bf8419d13_0_0.m3u8
+#EXTINF:0 tvg-name="STV" tvg-logo="http://ru.kineskop.club/icon_cache/zhara_tv_ru.png" group-title="Музыкальные",Жара
+#EXTGRP:Музыкальные
+http://ru.kineskop.club/site2/234_1009521_011735f5decfd5d9_0_0.m3u8
+#EXTINF:0 tvg-name="Интер" tvg-logo="http://ru.kineskop.club/icon_cache/inter_ua.png" timeshift="7" group-title="Украинские",Интер
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/171_1009521_d94629de7c6954c4_0_0.m3u8
+#EXTINF:0 tvg-name="Интер+" tvg-logo="http://ru.kineskop.club/icon_cache/inter_plus_ua.png" group-title="Украинские",Интер+
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/35_1009521_cfe535946450f203_0_0.m3u8
+#EXTINF:0 tvg-name="UA:Перший" tvg-logo="http://ru.kineskop.club/icon_cache/pershiy_nacionalniy_ua.png" group-title="Украинские",UA:Перший
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/1_1009521_b7d1140711e10370_0_0.m3u8
+#EXTINF:0 tvg-name="Украина" tvg-logo="http://ru.kineskop.club/icon_cache/trk_ukraina.png" timeshift="7" group-title="Украинские",ТРК Украина
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/2_1009521_3e373a33352001c9_0_0.m3u8
+#EXTINF:0 tvg-name="Украина" tvg-logo="http://ru.kineskop.club/icon_cache/trk_ukraina.png" timeshift="7" group-title="Украинские",ТРК Украина HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/575_1009521_9e66d297a6f47fdf_0_0.m3u8
+#EXTINF:0 tvg-name="НТН (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/ntn_ua.png" group-title="Украинские",НТН
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/150_1009521_4952061f40aa390d_0_0.m3u8
+#EXTINF:0 tvg-name="ICTV (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/ictv_ua.png" timeshift="7" group-title="Украинские",ICTV UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/168_1009521_04735255a2d9594e_0_0.m3u8
+#EXTINF:0 tvg-name="Канал 1+1" tvg-logo="http://ru.kineskop.club/icon_cache/1plus1.png" timeshift="7" group-title="Украинские",1+1
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/148_1009521_023bb3fa09d9e59d_0_0.m3u8
+#EXTINF:0 tvg-name="Канал 1+1 HD" tvg-logo="http://ru.kineskop.club/icon_cache/1_plus_1_ua.png" timeshift="7" group-title="Украинские",1+1 HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/835_1009521_c488e77457eb3879_0_0.m3u8
+#EXTINF:0 tvg-name="1+1 международный" tvg-logo="http://ru.kineskop.club/icon_cache/1_plus_1_ua_international.png" timeshift="7" group-title="Украинские",1+1 International
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/164_1009521_fe68c198d8bf9888_0_0.m3u8
+#EXTINF:0 tvg-name="ТЕТ" tvg-logo="http://ru.kineskop.club/icon_cache/tet_ua.png" group-title="Украинские",ТЕТ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/3_1009521_53900d2d36c5bf4f_0_0.m3u8
+#EXTINF:0 tvg-name="5 канал (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/kanal5_ua.png" group-title="Украинские",5 Канал Украина
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/154_1009521_e3d28c3014df5718_0_0.m3u8
+#EXTINF:0 tvg-name="СТБ" tvg-logo="http://ru.kineskop.club/icon_cache/stb.png" timeshift="7" group-title="Украинские",СТБ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/151_1009521_173d3807f41c96e6_0_0.m3u8
+#EXTINF:0 tvg-name="Новый Канал" tvg-logo="http://ru.kineskop.club/icon_cache/novy_kanal_ua.png" group-title="Украинские",Новый Канал
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/156_1009521_0969bcffec33d64b_0_0.m3u8
+#EXTINF:0 tvg-name="ТК Мега" tvg-logo="http://ru.kineskop.club/icon_cache/mega_ua.png" group-title="Украинские",Мега
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/155_1009521_e4689b324734c600_0_0.m3u8
+#EXTINF:0 tvg-name="2+2 (кино)" tvg-logo="http://ru.kineskop.club/icon_cache/2plus2.png" group-title="Украинские",2+2
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/149_1009521_4ef16686258a644f_0_0.m3u8
+#EXTINF:0 tvg-name="Пиксель" tvg-logo="http://ru.kineskop.club/icon_cache/piksel_tv.png" group-title="Украинские",Пиксель
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/31_1009521_e3425d47de6f6084_0_0.m3u8
+#EXTINF:0 tvg-name="НЛО-ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/nlo_tv_ua.png" group-title="Украинские",НЛО ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/235_1009521_260f29fe1e8186f2_0_0.m3u8
+#EXTINF:0 tvg-name="НЛО ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/nlo-tv-ua.png" group-title="Украинские",НЛО ТВ HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/1007_1009521_585ec9a90e2b6bf2_0_0.m3u8
+#EXTINF:0 tvg-name="112 Украина" tvg-logo="http://ru.kineskop.club/icon_cache/112_ukraina.png" group-title="Украинские",112 Украина
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/258_1009521_52e9e6c11e973272_0_0.m3u8
+#EXTINF:0 tvg-name="112 Украина" tvg-logo="http://ru.kineskop.club/icon_cache/112_ukraina.png" group-title="Украинские",112 Украина HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/259_1009521_7ba9a1b690c831be_0_0.m3u8
+#EXTINF:0 tvg-name="Квартал ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/kvartal_95_tv_ua.png" group-title="Украинские",Квартал ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/412_1009521_64c250f5ca0fba32_0_0.m3u8
+#EXTINF:0 tvg-name="Тонис" tvg-logo="http://ru.kineskop.club/icon_cache/pryamyy-ua.png" group-title="Украинские",Прямой UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/5_1009521_65ea9ddd4693bd7b_0_0.m3u8
+#EXTINF:0 tvg-name="ПЛЮСПЛЮС" tvg-logo="http://ru.kineskop.club/icon_cache/plus_plus_tv_ua.png" group-title="Украинские",ПлюсПлюс
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/6_1009521_19c771baf82567a1_0_0.m3u8
+#EXTINF:0 tvg-name="Малятко TV" tvg-logo="http://ru.kineskop.club/icon_cache/malyatko_tv.png" group-title="Украинские",Малятко ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/26_1009521_629926b6c0f71db1_0_0.m3u8
+#EXTINF:0 tvg-name="ТРК Киев" tvg-logo="http://ru.kineskop.club/icon_cache/trk_kiew.png" group-title="Украинские",ТРК Киев
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/14_1009521_82a2a6d1b2c768c8_0_0.m3u8
+#EXTINF:0 tvg-name="News 24" tvg-logo="http://ru.kineskop.club/icon_cache/news24_ua.png" group-title="Украинские",News 24
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/169_1009521_e2270433d9208017_0_0.m3u8
+#EXTINF:0 tvg-name="Униан ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/unian_tv_ua.png" group-title="Украинские",Униан ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/22_1009521_fc055ef43f804f0e_0_0.m3u8
+#EXTINF:0 tvg-name="Еспресо ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/espreso_tv_ua.png" group-title="Украинские",Еспресо ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/284_1009521_279fb7a0ee044e10_0_0.m3u8
+#EXTINF:0 tvg-name="Первый автомобильный HD" tvg-logo="http://ru.kineskop.club/icon_cache/pershiy_avtomobilniy_ua.png" group-title="Украинские",Первый автомобильный HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/651_1009521_a7b47226119318cf_0_0.m3u8
+#EXTINF:0 tvg-name="Первый автомобильный" tvg-logo="http://ru.kineskop.club/icon_cache/pershiy_avtomobilniy_ua.png" group-title="Украинские",Первый автомобильный 1200k
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/730_1009521_edd4862a2cb73d7f_0_0.m3u8
+#EXTINF:0 tvg-name="НАШ" tvg-logo="http://ru.kineskop.club/icon_cache/nash-ua.png" group-title="Украинские",НАШ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/18_1009521_48f7d9d0b386697f_0_0.m3u8
+#EXTINF:0 tvg-name="NewsOne" tvg-logo="http://ru.kineskop.club/icon_cache/newsone-ua.png" group-title="Украинские",News One
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/23_1009521_9e2e4d39988c3098_0_0.m3u8
+#EXTINF:0 tvg-name="Zoom" tvg-logo="http://ru.kineskop.club/icon_cache/zoom_tv_ua.png" group-title="Украинские",Zoom
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/145_1009521_0c87748835844169_0_0.m3u8
+#EXTINF:0 tvg-name="К1" tvg-logo="http://ru.kineskop.club/icon_cache/k1.png" group-title="Украинские",К1
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/152_1009521_61d029e3c3c72b7e_0_0.m3u8
+#EXTINF:0 tvg-name="К2" tvg-logo="http://ru.kineskop.club/icon_cache/k2.png" group-title="Украинские",К2
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/153_1009521_ad775ef0dfa1cd12_0_0.m3u8
+#EXTINF:0 tvg-name="Оце" tvg-logo="http://ru.kineskop.club/icon_cache/qtv_ua.png" group-title="Украинские",Оце
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/158_1009521_4947b1a90dcc1ae6_0_0.m3u8
+#EXTINF:0 tvg-name="Киевская Русь" tvg-logo="http://ru.kineskop.club/icon_cache/krt_kievskaya_rus_tv.png" group-title="Украинские",КРТ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/159_1009521_ef40087882649cb5_0_0.m3u8
+#EXTINF:0 tvg-name="Бигуди" tvg-logo="http://ru.kineskop.club/icon_cache/bigudi_tv_ua.png" group-title="Украинские",Бигуди
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/160_1009521_f0be66a99a71e81d_0_0.m3u8
+#EXTINF:0 tvg-name="Первый деловой" tvg-logo="http://ru.kineskop.club/icon_cache/pershiy_diloviy.png" group-title="Украинские",Первый Деловой
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/162_1009521_a3eba3b1474e83c5_0_0.m3u8
+#EXTINF:0 tvg-name="М-2" tvg-logo="http://ru.kineskop.club/icon_cache/m2_ua.png" group-title="Украинские",М2 1300k
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/166_1009521_17aa49f9226e941b_0_0.m3u8
+#EXTINF:0 tvg-name="Солнце" tvg-logo="http://ru.kineskop.club/icon_cache/sonce_telekanal_ua.png" group-title="Украинские",Солнце
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/225_1009521_e27ed8b8673cef48_0_0.m3u8
+#EXTINF:0 tvg-name="Индиго ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/indigo_tv_ua.png" group-title="Украинские",Индиго ТВ
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/239_1009521_a896cdbb9440a417_0_0.m3u8
+#EXTINF:0 tvg-name="Индиго ТВ" tvg-logo="http://ru.kineskop.club/icon_cache/indigo_tv_ua.png" group-title="Украинские",Индиго ТВ HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/1008_1009521_2a0b1de1c563ee82_0_0.m3u8
+#EXTINF:0 tvg-name="Винтаж" tvg-logo="http://ru.kineskop.club/icon_cache/vintage_ua.png" group-title="Украинские",Винтаж
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/244_1009521_80400ef2cbdcdf8e_0_0.m3u8
+#EXTINF:0 tvg-name="ТРК Донбасс" tvg-logo="http://ru.kineskop.club/icon_cache/donbass_telekanal.png" group-title="Украинские",ТРК Донбасс
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/285_1009521_534ea052e2e65387_0_0.m3u8
+#EXTINF:0 tvg-name="News Network" tvg-logo="http://ru.kineskop.club/icon_cache/news_network_ua.png" group-title="Украинские",News Network
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/325_1009521_79e5a503e156a91c_0_0.m3u8
+#EXTINF:0 tvg-name="Zik" tvg-logo="http://ru.kineskop.club/icon_cache/zik_ua.png" group-title="Украинские",Zik
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/370_1009521_48a0b7e7df91ce98_0_0.m3u8
+#EXTINF:0 tvg-name="Zik HD" tvg-logo="http://ru.kineskop.club/icon_cache/zik-hd-ua.png" group-title="Украинские",Zik HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/646_1009521_7bdace26ef271347_0_0.m3u8
+#EXTINF:0 tvg-name="UA:Культура" tvg-logo="http://ru.kineskop.club/icon_cache/ua-kultura-ua.png" group-title="Украинские",UA:Культура
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/21_1009521_afdde6cb083bec90_0_0.m3u8
+#EXTINF:0 tvg-name="Болт" tvg-logo="http://ru.kineskop.club/icon_cache/bolt_tv_ua.png" group-title="Украинские",Болт UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/416_1009521_44d03cdf0e26f06b_0_0.m3u8
+#EXTINF:0 tvg-name="Дача UA" tvg-logo="http://ru.kineskop.club/icon_cache/dacha_tv_ua.png" group-title="Украинские",Дача UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/418_1009521_19fd85b77155788e_0_0.m3u8
+#EXTINF:0 tvg-name="Трофей" tvg-logo="http://ru.kineskop.club/icon_cache/trofey_ua.png" group-title="Украинские",Трофей UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/271_1009521_0a52293f34913ff0_0_0.m3u8
+#EXTINF:0 tvg-name="Enter-фильм" tvg-logo="http://ru.kineskop.club/icon_cache/enter_film_ua.png" timeshift="7" group-title="Украинские",Enter Film UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/9_1009521_8a1c004212d83c12_0_0.m3u8
+#EXTINF:0 tvg-name="UA TV" tvg-logo="http://ru.kineskop.club/icon_cache/ua_tv_ua.png" group-title="Украинские",UA TV
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/536_1009521_17ae53aa78da95bd_0_0.m3u8
+#EXTINF:0 tvg-name="Черноморская ТРК" tvg-logo="http://ru.kineskop.club/icon_cache/chernomorskaya_tv_ua.png" group-title="Украинские",Черноморская ТРК
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/537_1009521_252002ee7ad2bf56_0_0.m3u8
+#EXTINF:0 tvg-name="8 Канал" tvg-logo="http://ru.kineskop.club/icon_cache/8-kanal-ua.png" group-title="Украинские",8 Канал UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/584_1009521_53d8b41fabed6caf_0_0.m3u8
+#EXTINF:0 tvg-name="ЧП инфо" tvg-logo="http://ru.kineskop.club/icon_cache/che_pe_info.png" group-title="Украинские",ЧП инфо
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/816_1009521_90f3977d9803e1fb_0_0.m3u8
+#EXTINF:0 tvg-name="Сварожичи" tvg-logo="http://ru.kineskop.club/icon_cache/svarozhychy-ua.png" group-title="Украинские",Сварожичи UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/834_1009521_0f1012050ed6a152_0_0.m3u8
+#EXTINF:0 tvg-name="Оце" tvg-logo="http://ru.kineskop.club/icon_cache/oce-ua.png" group-title="Украинские",ОЦЕ HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/864_1009521_8610fd71f3dc0696_0_0.m3u8
+#EXTINF:0 tvg-name="М-2" tvg-logo="http://ru.kineskop.club/icon_cache/m2_ua.png" group-title="Украинские",М2 HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/865_1009521_62e67db11d3a0fce_0_0.m3u8
+#EXTINF:0 tvg-name="Новый Канал" tvg-logo="http://ru.kineskop.club/icon_cache/novy_kanal_ua.png" group-title="Украинские",Новый Канал HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/866_1009521_94dea138047d1cfe_0_0.m3u8
+#EXTINF:0 tvg-name="СТБ" tvg-logo="http://ru.kineskop.club/icon_cache/stb.png" group-title="Украинские",СТБ HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/867_1009521_b162a97d910c0555_0_0.m3u8
+#EXTINF:0 tvg-name="ICTV (Украина)" tvg-logo="http://ru.kineskop.club/icon_cache/ictv_ua.png" group-title="Украинские",ICTV HD UA
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/868_1009521_74fae3bc9f9ec152_0_0.m3u8
+#EXTINF:0 tvg-name="М-1" tvg-logo="http://ru.kineskop.club/icon_cache/m1_ua.png" group-title="Украинские",M1 HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/869_1009521_9a017b00aa7d06ca_0_0.m3u8
+#EXTINF:0 tvg-name="4 Канал" tvg-logo="http://ru.kineskop.club/icon_cache/4-kanal-ua.png" group-title="Украинские",4 Канал
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/848_1009521_1dcb92e734f30157_0_0.m3u8
+#EXTINF:0 tvg-name="Надия" tvg-logo="http://ru.kineskop.club/icon_cache/telekanal_nadiya_ua.png" group-title="Украинские",Надия
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/877_1009521_a4cc050aee505d7a_0_0.m3u8
+#EXTINF:0 tvg-name="Украина 24" tvg-logo="http://ru.kineskop.club/icon_cache/ukraina-24-ua.png" group-title="Украинские",Украина 24 HD
+#EXTGRP:Украинские
+http://ru.kineskop.club/site2/890_1009521_610d7739b1f6325c_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 1" tvg-logo="http://ru.kineskop.club/icon_cache/267px-Belarus-1.jpg" group-title="Белорусские",Беларусь 1 BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/567_1009521_15e811b81f26b25c_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 2" tvg-logo="http://ru.kineskop.club/icon_cache/ChannelBelarus2.png" group-title="Белорусские",Беларусь 2 BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/570_1009521_24ad7c2a712692e2_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 3" tvg-logo="http://ru.kineskop.club/icon_cache/Belarus_3.jpg" group-title="Белорусские",Беларусь 3 BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/571_1009521_f1664b8ae811454f_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 5" tvg-logo="http://ru.kineskop.club/icon_cache/1497000853_5.png" group-title="Белорусские",Беларусь 5 BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/572_1009521_a9c31a7edd1ca91d_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 5 HD" tvg-logo="http://ru.kineskop.club/icon_cache/1497000853_5.png" group-title="Белорусские",Беларусь 5 HD
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/795_1009521_30e9047b884de0a5_0_0.m3u8
+#EXTINF:0 tvg-name="Беларусь 24" tvg-logo="http://ru.kineskop.club/icon_cache/belarus_by_24.png" group-title="Белорусские",Беларусь 24 HD
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/180_1009521_cea07692625acdbe_0_0.m3u8
+#EXTINF:0 tvg-name="ОНТ (Беларусь)" tvg-logo="http://ru.kineskop.club/icon_cache/267px-ONT_logo.jpg" group-title="Белорусские",ОНТ BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/568_1009521_40cdb9b726084294_0_0.m3u8
+#EXTINF:0 tvg-name="БелРос" tvg-logo="http://ru.kineskop.club/icon_cache/belros-ru.png" group-title="Белорусские",БелРос BY
+#EXTGRP:Белорусские
+http://ru.kineskop.club/site2/880_1009521_8e9a9b40ea000553_0_0.m3u8
+#EXTINF:0 tvg-name="Deutsche Welle" tvg-logo="http://ru.kineskop.club/icon_cache/deutsche_welle_tv_de.png" group-title="Немецкие",DW Deutsch
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/484_1009521_96e72d0e7cabb0f0_0_0.m3u8
+#EXTINF:0 tvg-name="ZDF" tvg-logo="http://ru.kineskop.club/icon_cache/zdf_de.png" group-title="Немецкие",ZDF
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/507_1009521_da6488b9985cd447_0_0.m3u8
+#EXTINF:0 tvg-name="KIKA" tvg-logo="http://ru.kineskop.club/icon_cache/kika_de.png" group-title="Немецкие",KIKA
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/508_1009521_3b5b773db7fb53cf_0_0.m3u8
+#EXTINF:0 tvg-name="RTL Deutschland" tvg-logo="http://ru.kineskop.club/icon_cache/rtl_de.png" group-title="Немецкие",RTL Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/509_1009521_ee591d815ce8c369_0_0.m3u8
+#EXTINF:0 tvg-name="RTL 2 Deutschland" tvg-logo="http://ru.kineskop.club/icon_cache/rtl2_de.png" group-title="Немецкие",RTL 2 Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/510_1009521_fdfec60521aa5894_0_0.m3u8
+#EXTINF:0 tvg-name="Super RTL Deutschland" tvg-logo="http://ru.kineskop.club/icon_cache/super_rtl_de.png" group-title="Немецкие",Super RTL Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/511_1009521_d902e047617ed5fd_0_0.m3u8
+#EXTINF:0 tvg-name="VOX Deutschland" tvg-logo="http://ru.kineskop.club/icon_cache/vox_de.png" group-title="Немецкие",VOX Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/512_1009521_10189ee2c568a0c4_0_0.m3u8
+#EXTINF:0 tvg-name="Sky Sport 1 HD" tvg-logo="http://ru.kineskop.club/icon_cache/sky_de_sport.png" timeshift="7" group-title="Немецкие",Sky Sport 1 HD
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/793_1009521_f6aa1e62f0a21e4c_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/zdf_info.png" group-title="Немецкие",ZDF info
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/817_1009521_4a90356ecafa32f0_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/zdf-neo-de.png" group-title="Немецкие",ZDF Neo
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/818_1009521_4f41c6252555459e_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/rtl_plus_de.png" group-title="Немецкие",RTL plus Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/819_1009521_0f74eb6516192230_0_0.m3u8
+#EXTINF:0 tvg-name="RTL NITRO" tvg-logo="http://ru.kineskop.club/icon_cache/nitro_de.png" group-title="Немецкие",Nitro Deutschland
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/820_1009521_93713b5a2f95bc87_0_0.m3u8
+#EXTINF:0 tvg-name="Sky Cinema +24 HD" tvg-logo="http://ru.kineskop.club/icon_cache/sky_de_cinema_plus24.png" group-title="Немецкие",Sky Cinema +24 HD De
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/821_1009521_9ce9e5086aa6d6ae_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/nat_geo_wild_us.png" group-title="Немецкие",Nat Geo Wild HD DE
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/871_1009521_d036de4f4db02727_0_0.m3u8
+#EXTINF:0 tvg-name="N-TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/n-tv-de.png" group-title="Немецкие",N-TV HD DE
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/897_1009521_648ef87ba4b4d77e_0_0.m3u8
+#EXTINF:0 tvg-name="Welt" tvg-logo="http://ru.kineskop.club/icon_cache/welt-de.png" group-title="Немецкие",Welt HD DE
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/898_1009521_e148a77727d95e39_0_0.m3u8
+#EXTINF:0 tvg-name="Toggo Plus" tvg-logo="http://ru.kineskop.club/icon_cache/toggo_plus_de.png" group-title="Немецкие",Toggo Plus DE
+#EXTGRP:Немецкие
+http://ru.kineskop.club/site2/907_1009521_f8a98d35cd0edbe4_0_0.m3u8
+#EXTINF:0 tvg-name="ITV" tvg-logo="http://ru.kineskop.club/icon_cache/itv_uk.png" group-title="Английские",ITV UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/626_1009521_1538e5f3905ab26b_0_0.m3u8
+#EXTINF:0 tvg-name="ITV2" tvg-logo="http://ru.kineskop.club/icon_cache/itv_uk_2.png" group-title="Английские",ITV2 UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/627_1009521_46a118b37001bd7a_0_0.m3u8
+#EXTINF:0 tvg-name="BBC One" tvg-logo="http://ru.kineskop.club/icon_cache/bbc_one.png" group-title="Английские",BBC One UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/628_1009521_f4624c293dfc7ca8_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/bbc_two_uk.png" group-title="Английские",BBC Two England UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/629_1009521_65e482cc5781cccc_0_0.m3u8
+#EXTINF:0 tvg-name="BBC World News" tvg-logo="http://ru.kineskop.club/icon_cache/bbc_world_news_uk.png" group-title="Английские",BBC World News HD UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/899_1009521_3a5186debfd6483b_0_0.m3u8
+#EXTINF:0 tvg-name="Aljazeera English" tvg-logo="http://ru.kineskop.club/icon_cache/al_jazeera_english.png" group-title="Английские",Aljazeera English HD UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/900_1009521_9e7688594fb2c218_0_0.m3u8
+#EXTINF:0 tvg-name="Bloomberg TV UK" tvg-logo="http://ru.kineskop.club/icon_cache/blommberg-tv-us.png" group-title="Английские",Bloomberg TV HD UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/901_1009521_28f7c400bc6ad152_0_0.m3u8
+#EXTINF:0 tvg-name="CNN International" tvg-logo="http://ru.kineskop.club/icon_cache/cnn-international-us.png" group-title="Английские",CNN International HD UK
+#EXTGRP:Английские
+http://ru.kineskop.club/site2/902_1009521_d1bb91eff36e2f07_0_0.m3u8
+#EXTINF:0 tvg-name="Tele 5" tvg-logo="http://ru.kineskop.club/icon_cache/tele5_pl.png" group-title="Польские",Tele 5 PL
+#EXTGRP:Польские
+http://ru.kineskop.club/site2/522_1009521_e7e3863741a089df_0_0.m3u8
+#EXTINF:0 tvg-name="Polonia 1" tvg-logo="http://ru.kineskop.club/icon_cache/polonia1.png" group-title="Польские",Polonia 1 PL
+#EXTGRP:Польские
+http://ru.kineskop.club/site2/523_1009521_52da86318e375135_0_0.m3u8
+#EXTINF:0 tvg-name="Armenia 1" tvg-logo="http://ru.kineskop.club/icon_cache/armenia1_sat.png" group-title="Армянские",Armenia 1 ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/461_1009521_cfa61124aa5ee815_0_0.m3u8
+#EXTINF:0 tvg-name="Armenia TV" tvg-logo="http://ru.kineskop.club/icon_cache/armenia_tv_am.png" group-title="Армянские",Armenia TV ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/368_1009521_39d8d905f24bc200_0_0.m3u8
+#EXTINF:0 tvg-name="Kentron TV" tvg-logo="http://ru.kineskop.club/icon_cache/kentron_tv_am_international.png" group-title="Армянские",Kentron TV ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/462_1009521_3ebdf95847f73363_0_0.m3u8
+#EXTINF:0 tvg-name="Shant TV" tvg-logo="http://ru.kineskop.club/icon_cache/shant_tv_am.png" group-title="Армянские",Shant News ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/367_1009521_d0584d8ad566c4b3_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shant_tv_am_premium.png" group-title="Армянские",Shant Premium HD ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/857_1009521_4a3df5d2abc34177_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shant-serial-am.png" group-title="Армянские",Shant Serial HD ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/858_1009521_bc5a068de8f58ddd_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shant-music-am.png" group-title="Армянские",Shant Music HD ARM
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/856_1009521_d086cbff5e8798fa_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shant_kids.png" group-title="Армянские",Shant kids HD
+#EXTGRP:Армянские
+http://ru.kineskop.club/site2/896_1009521_86a54b9dc39cfe9f_0_0.m3u8
+#EXTINF:0 tvg-name="Хабар 24" tvg-logo="http://ru.kineskop.club/icon_cache/24_kz.png" group-title="Казахские",Хабар 24 KZ
+#EXTGRP:Казахские
+http://ru.kineskop.club/site2/389_1009521_f7c01b86ba98c0ea_0_0.m3u8
+#EXTINF:0 tvg-name="Kazakh TV" tvg-logo="http://ru.kineskop.club/icon_cache/kazakh_tv_kz.png" group-title="Казахские",Kazakh TV KZ
+#EXTGRP:Казахские
+http://ru.kineskop.club/site2/388_1009521_d4ae360c056bb9ee_0_0.m3u8
+#EXTINF:0 tvg-name="Yoshlar UZ" tvg-logo="http://ru.kineskop.club/icon_cache/yoshlar_uz.png" group-title="Узбекские",Yoshlar UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/487_1009521_da78537d62e36bf6_0_0.m3u8
+#EXTINF:0 tvg-name="Bolajon UZ" tvg-logo="http://ru.kineskop.club/icon_cache/bolajon_uz.png" group-title="Узбекские",Bolajon UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/501_1009521_87756631e421d0df_0_0.m3u8
+#EXTINF:0 tvg-name="Dunyo Boylab UZ" tvg-logo="http://ru.kineskop.club/icon_cache/thumb_564f15c08f2eb.jpg" group-title="Узбекские",Dunyo Boylab UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/502_1009521_bc35ea5c26ad37f0_0_0.m3u8
+#EXTINF:0 tvg-name="Kinoteatr UZ" tvg-logo="http://ru.kineskop.club/icon_cache/04f7630dcf8bcfe6f167bb556dec647f0fb4727e.jpg" group-title="Узбекские",Kinoteatr UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/503_1009521_2fe1f14de7b18aaf_0_0.m3u8
+#EXTINF:0 tvg-name="Madaniyat va ma'rifat" tvg-logo="http://ru.kineskop.club/icon_cache/madaniyat_va_marifat_uz.png" group-title="Узбекские",Madaniyat va ma'rifat UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/504_1009521_09e665f5cdff783f_0_0.m3u8
+#EXTINF:0 tvg-name="Mahalla UZ" tvg-logo="http://ru.kineskop.club/icon_cache/mahalla_uz.png" group-title="Узбекские",Mahalla UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/505_1009521_de7682bdb3c17e51_0_0.m3u8
+#EXTINF:0 tvg-name="Navo UZ" tvg-logo="http://ru.kineskop.club/icon_cache/navo_uz.png" group-title="Узбекские",Navo UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/506_1009521_6e69bd33fbaf32f1_0_0.m3u8
+#EXTINF:0 tvg-name="Sport UZ" tvg-logo="http://ru.kineskop.club/icon_cache/uz.png" group-title="Узбекские",Sport UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/516_1009521_d81e07ba03d38245_0_0.m3u8
+#EXTINF:0 tvg-name="Toshkent UZ" tvg-logo="http://ru.kineskop.club/icon_cache/toshkent_uz.png" group-title="Узбекские",Toshkent UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/517_1009521_6d9c16a4f30ef1f9_0_0.m3u8
+#EXTINF:0 tvg-name="Uzbekistan UZ" tvg-logo="http://ru.kineskop.club/icon_cache/uz.png" group-title="Узбекские",Uzbekistan UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/518_1009521_31c24c11e613cde2_0_0.m3u8
+#EXTINF:0 tvg-name="Uzbekistan 24 UZ" tvg-logo="http://ru.kineskop.club/icon_cache/uz.png" group-title="Узбекские",Uzbekistan 24 UZ
+#EXTGRP:Узбекские
+http://ru.kineskop.club/site2/519_1009521_9841c0f09c3ad5d4_0_0.m3u8
+#EXTINF:0 tvg-name="ТНВ-планета" tvg-logo="http://ru.kineskop.club/icon_cache/tnv_planeta.png" group-title="Таджикские",ТНВ Планета TA
+#EXTGRP:Таджикские
+http://ru.kineskop.club/site2/520_1009521_f54484f096f6a52a_0_0.m3u8
+#EXTINF:0 tvg-name="Tojikiston HD" tvg-logo="http://ru.kineskop.club/icon_cache/tvt_tj.png" group-title="Таджикские",Tojikiston HD
+#EXTGRP:Таджикские
+http://ru.kineskop.club/site2/814_1009521_33aad430fe8dd15f_0_0.m3u8
+#EXTINF:0 tvg-name="Alpha GR" tvg-logo="http://ru.kineskop.club/icon_cache/alpha_tv.png" group-title="Греческие",Alpha GR
+#EXTGRP:Греческие
+http://ru.kineskop.club/site2/427_1009521_8b05071926870d3d_0_0.m3u8
+#EXTINF:0 tvg-name="Ant1 GR" tvg-logo="http://ru.kineskop.club/icon_cache/antenna1_gr.png" group-title="Греческие",Ant1 GR
+#EXTGRP:Греческие
+http://ru.kineskop.club/site2/428_1009521_dd48ee3c67a6705b_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/star_channel_gr.png" group-title="Греческие",Star Channel GR
+#EXTGRP:Греческие
+http://ru.kineskop.club/site2/362_1009521_fd2724752d742ff4_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/makedonia_tv.png" group-title="Греческие",Makedonia GR
+#EXTGRP:Греческие
+http://ru.kineskop.club/site2/360_1009521_98a83c01a84b45f2_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/skai_tv.png" group-title="Греческие",SKAI Tileorasi GR
+#EXTGRP:Греческие
+http://ru.kineskop.club/site2/361_1009521_a4363363922447cf_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/ajara_tv_ge.png" group-title="Грузинские",Ajara TV HD Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/590_1009521_7cc338b0be6f1e27_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/gpb_ge_1_tv.png" group-title="Грузинские",1 TV Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/589_1009521_17ba68c157ee4d0c_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/imedi_tv_ge.png" group-title="Грузинские",Imedi TV HD Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/591_1009521_b4ff3629ef5a9aea_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/gds_tv_ge.png" group-title="Грузинские",GDS TV Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/592_1009521_c5fbd342bb534c40_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/imedi-news.png" group-title="Грузинские",Imedi News Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/593_1009521_b1cb4edf8883bfa2_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/tv_pirveli_ge.png" group-title="Грузинские",TV Pirveli Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/594_1009521_c801558c1ce19ad9_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/obieqtivi_tv_ge.png" group-title="Грузинские",Obieqtivi Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/596_1009521_a8d27b1a464a222a_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/tv25_ge.png" group-title="Грузинские",TV 25 HD Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/597_1009521_d501de9a493ae6ee_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/marneuli_tv_ge.png" group-title="Грузинские",Marneuli TV Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/600_1009521_a08a1097a4125fef_0_0.m3u8
+#EXTINF:0 tvg-name="Rustavi 2" tvg-logo="http://ru.kineskop.club/icon_cache/rustavi_2_ge.png" group-title="Грузинские",Rustavi 2
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/825_1009521_b0d0efad03cfd9cf_0_0.m3u8
+#EXTINF:0 tvg-name="Mtavari Arkhi" tvg-logo="http://ru.kineskop.club/icon_cache/mtavari-arkhi-ge.png" group-title="Грузинские",Mtavari Arkhi Geo
+#EXTGRP:Грузинские
+http://ru.kineskop.club/site2/833_1009521_3380c468d373c10c_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/dalga-az.png" group-title="Азербайджанские",Dalga Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/601_1009521_ec61fae8f42d2807_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/azerbaycan_tv.png" group-title="Азербайджанские",Az TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/602_1009521_974c7c7d14d7ce02_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/ictimai_tv.png" group-title="Азербайджанские",Ictimai TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/603_1009521_2c5eeeaf35cbb2d7_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/space_tv_az.png" group-title="Азербайджанские",Space TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/604_1009521_92ed446ea46167d0_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/lider_tv.png" group-title="Азербайджанские",Lider TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/605_1009521_e94d256450e31d37_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/real-tv-az.png" group-title="Азербайджанские",Real TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/606_1009521_5dbef463200459c3_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/dunya_tv_az.png" group-title="Азербайджанские",Dunya TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/607_1009521_5e05e8f8e57f5c57_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/cbc_sport_az.png" group-title="Азербайджанские",CBC Sport HD Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/608_1009521_ae62903ecfff068e_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/cbc_tv_az.png" group-title="Азербайджанские",CBC Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/609_1009521_57598b4e01a1f959_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/medeniyyet_tv.png" group-title="Азербайджанские",Medeniyyet Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/610_1009521_e1d8016a4fdbe6c9_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/idman_azerbaycan.png" group-title="Азербайджанские",Idman Azerbaycan Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/611_1009521_1856fff8eda5e7c9_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/xazar_tv_az.png" group-title="Азербайджанские",Xezer TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/612_1009521_7d8d6cc046a9412d_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/azad_tv_az.png" group-title="Азербайджанские",Azad TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/613_1009521_56737d5128f6167f_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/muz_tv_az.png" group-title="Азербайджанские",Muz TV Aze
+#EXTGRP:Азербайджанские
+http://ru.kineskop.club/site2/614_1009521_9e7cc20f3d2e0967_0_0.m3u8
+#EXTINF:0 tvg-name="TRT 1" tvg-logo="http://ru.kineskop.club/icon_cache/trt1.png" group-title="Турецкие",TRT 1 TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/707_1009521_7fabe6674cfb9a97_0_0.m3u8
+#EXTINF:0 tvg-name="TRT 1 HD" tvg-logo="http://ru.kineskop.club/icon_cache/trt1.png" group-title="Турецкие",TRT 1 HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/690_1009521_afed72d182007e54_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Haber" tvg-logo="http://ru.kineskop.club/icon_cache/trt_haber.png" group-title="Турецкие",TRT Haber TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/708_1009521_92481a1f3eba8c55_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Müzik" tvg-logo="http://ru.kineskop.club/icon_cache/trt_muzik.png" group-title="Турецкие",TRT Müzik TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/709_1009521_66e7cda73c9b5d65_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Müzik HD" tvg-logo="http://ru.kineskop.club/icon_cache/trt_muzik.png" group-title="Турецкие",TRT Müzik HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/824_1009521_65af6373957487f9_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Spor" tvg-logo="http://ru.kineskop.club/icon_cache/trt_spor_tr.png" group-title="Турецкие",TRT Spor TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/710_1009521_5f470cc72c8c13aa_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Spor HD" tvg-logo="http://ru.kineskop.club/icon_cache/trt_spor_tr.png" group-title="Турецкие",TRT Spor HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/691_1009521_4324d13d0b8058e4_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Spor 2 HD" tvg-logo="http://ru.kineskop.club/icon_cache/trt-spor-2-tr.png" group-title="Турецкие",TRT Spor 2 HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/823_1009521_197bc6e415e6dc4a_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Çocuk HD" tvg-logo="http://ru.kineskop.club/icon_cache/trt_cocuk.png" group-title="Турецкие",TRT Çocuk HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/688_1009521_2e38feec55af5f06_0_0.m3u8
+#EXTINF:0 tvg-name="NTV Türkiye HD" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_tr.png" group-title="Турецкие",NTV Türkiye HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/695_1009521_7cc95d7113b5d617_0_0.m3u8
+#EXTINF:0 tvg-name="Star TV" tvg-logo="http://ru.kineskop.club/icon_cache/star_tv_tr.png" group-title="Турецкие",Star TV TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/692_1009521_753bba63335d26a0_0_0.m3u8
+#EXTINF:0 tvg-name="NTV Türkiye" tvg-logo="http://ru.kineskop.club/icon_cache/ntv_tr.png" group-title="Турецкие",NTV Türkiye TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/693_1009521_75bd23d1de6e909d_0_0.m3u8
+#EXTINF:0 tvg-name="Star TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/star_tv_tr.png" group-title="Турецкие",Star TV HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/694_1009521_9a8eadf4ca32c722_0_0.m3u8
+#EXTINF:0 tvg-name="A Spor" tvg-logo="http://ru.kineskop.club/icon_cache/a_spor_tr.png" group-title="Турецкие",A Spor TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/696_1009521_2bc74e4d08f2cb71_0_0.m3u8
+#EXTINF:0 tvg-name="A Spor HD" tvg-logo="http://ru.kineskop.club/icon_cache/a_spor_tr.png" group-title="Турецкие",A Spor HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/699_1009521_39be0d3075c3e4c7_0_0.m3u8
+#EXTINF:0 tvg-name="Minika Çocuk" tvg-logo="http://ru.kineskop.club/icon_cache/minika_cocuk.png" group-title="Турецкие",Minika Çocuk TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/697_1009521_0aab37b71e1fb02c_0_0.m3u8
+#EXTINF:0 tvg-name="ATV Türkiye HD" tvg-logo="http://ru.kineskop.club/icon_cache/atv_tr.png" group-title="Турецкие",ATV Türkiye HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/698_1009521_9ecf502073e70e71_0_0.m3u8
+#EXTINF:0 tvg-name="Kanal 7 HD" tvg-logo="http://ru.kineskop.club/icon_cache/kanal7_tr.png" group-title="Турецкие",Kanal 7 HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/700_1009521_bbedc417dae79f60_0_0.m3u8
+#EXTINF:0 tvg-name="Show TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/show_tv_tr.png" group-title="Турецкие",Show TV HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/701_1009521_178e8405eff3d326_0_0.m3u8
+#EXTINF:0 tvg-name="Habertürk HD" tvg-logo="http://ru.kineskop.club/icon_cache/haber_turk.png" group-title="Турецкие",Habertürk HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/702_1009521_c4afb46425ebbeb2_0_0.m3u8
+#EXTINF:0 tvg-name="Kanal D HD" tvg-logo="http://ru.kineskop.club/icon_cache/kanal_d_tr.png" group-title="Турецкие",Kanal D HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/703_1009521_7a20804da3f62b1a_0_0.m3u8
+#EXTINF:0 tvg-name="CNN Türk HD" tvg-logo="http://ru.kineskop.club/icon_cache/cnn_turk.png" group-title="Турецкие",CNN Türk HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/704_1009521_e388d68e9208244c_0_0.m3u8
+#EXTINF:0 tvg-name="Fox Türkiye HD" tvg-logo="http://ru.kineskop.club/icon_cache/fox_global.png" group-title="Турецкие",Fox Türkiye HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/705_1009521_6dd3fc65975df4fe_0_0.m3u8
+#EXTINF:0 tvg-name="TV 8 HD" tvg-logo="http://ru.kineskop.club/icon_cache/tv8_tr.png" group-title="Турецкие",TV 8 HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/706_1009521_16109b51d0d3226a_0_0.m3u8
+#EXTINF:0 tvg-name="Power Türk TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/power_turk_tr_tv.png" group-title="Турецкие",Power Türk TV HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/711_1009521_c2db884dee5bf1b6_0_0.m3u8
+#EXTINF:0 tvg-name="24 TV HD" tvg-logo="http://ru.kineskop.club/icon_cache/24-tv-tr.png" group-title="Турецкие",24 TV HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/712_1009521_acd8b24dd0efe7bf_0_0.m3u8
+#EXTINF:0 tvg-name="DMAX Türkiye HD" tvg-logo="http://ru.kineskop.club/icon_cache/dmax_us.png" group-title="Турецкие",DMAX Türkiye HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/715_1009521_cc2d0062f948e11f_0_0.m3u8
+#EXTINF:0 tvg-name="TLC Türkiye HD" tvg-logo="http://ru.kineskop.club/icon_cache/tlc_uk.png" group-title="Турецкие",TLC Türkiye HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/716_1009521_cfb622727f4cf959_0_0.m3u8
+#EXTINF:0 tvg-name="TRT Haber HD TR" tvg-logo="http://ru.kineskop.club/icon_cache/trt_haber.png" group-title="Турецкие",TRT Haber HD TR
+#EXTGRP:Турецкие
+http://ru.kineskop.club/site2/717_1009521_554be0e9a8571c70_0_0.m3u8
+#EXTINF:0 tvg-name="Lalish TV" tvg-logo="http://ru.kineskop.club/icon_cache/lalish_tv_de.png" group-title="Курдские",Lalish TV
+#EXTGRP:Курдские
+http://ru.kineskop.club/site2/882_1009521_f6433edc6b5ee6ef_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/moldova-1-md.png" group-title="Молдавские",Moldova 1 Mol HD
+#EXTGRP:Молдавские
+http://ru.kineskop.club/site2/792_1009521_5d6642ceb8d0266c_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/jurnal_tv.png" group-title="Молдавские",Jurnal TV HD Moldova
+#EXTGRP:Молдавские
+http://ru.kineskop.club/site2/798_1009521_f763c1e7bcf02d1f_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/moldova-1-md.png" group-title="Молдавские",Moldova 1 Mol 1300k
+#EXTGRP:Молдавские
+http://ru.kineskop.club/site2/1005_1009521_16aa9947a35aab33_0_0.m3u8
+#EXTINF:0 tvg-name="KBS World HD" tvg-logo="http://ru.kineskop.club/icon_cache/kbs_world_kr.png" group-title="Корейские",KBS World HD
+#EXTGRP:Корейские
+http://ru.kineskop.club/site2/815_1009521_959393f14ca1401d_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/maidan_tv_ru.png" group-title="Татарские",Maidan
+#EXTGRP:Татарские
+http://ru.kineskop.club/site2/875_1009521_c183bad11d0099b2_0_0.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="http://ru.kineskop.club/icon_cache/shayan-tv-ru.png" group-title="Татарские",Шаян
+#EXTGRP:Татарские
+http://ru.kineskop.club/site2/876_1009521_8f86616d871d0098_0_0.m3u8
